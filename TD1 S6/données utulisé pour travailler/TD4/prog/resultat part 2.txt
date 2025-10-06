@@ -1,0 +1,89 @@
+Exactitude globale : 0.9707792207792207
+Langue : bg
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : en
+ - Rappel : 1.0
+ - Précision : 0.6746987951807228
+ - F1-mesure : 0.8057553956834532
+Langue : cs
+ - Rappel : 0.9642857142857143
+ - Précision : 0.9152542372881356
+ - F1-mesure : 0.9391304347826087
+Langue : da
+ - Rappel : 0.9821428571428571
+ - Précision : 0.9649122807017544
+ - F1-mesure : 0.9734513274336283
+Langue : de
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : el
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : es
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : et
+ - Rappel : 0.9464285714285714
+ - Précision : 0.9636363636363636
+ - F1-mesure : 0.9549549549549549
+Langue : fi
+ - Rappel : 0.9285714285714286
+ - Précision : 1.0
+ - F1-mesure : 0.962962962962963
+Langue : fr
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : hu
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : it
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : lt
+ - Rappel : 0.9642857142857143
+ - Précision : 1.0
+ - F1-mesure : 0.9818181818181818
+Langue : lv
+ - Rappel : 0.9642857142857143
+ - Précision : 1.0
+ - F1-mesure : 0.9818181818181818
+Langue : mt
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : nl
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : pl
+ - Rappel : 0.9464285714285714
+ - Précision : 1.0
+ - F1-mesure : 0.9724770642201834
+Langue : pt
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : ro
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909
+Langue : sk
+ - Rappel : 0.9107142857142857
+ - Précision : 1.0
+ - F1-mesure : 0.9532710280373832
+Langue : sl
+ - Rappel : 0.9642857142857143
+ - Précision : 1.0
+ - F1-mesure : 0.9818181818181818
+Langue : sv
+ - Rappel : 0.9821428571428571
+ - Précision : 1.0
+ - F1-mesure : 0.9909909909909909

@@ -1,0 +1,7538 @@
+{
+  "Entit\u00e9_0": {
+    "entit\u00e9": "I \n",
+    "label": "PER"
+  },
+  "Entit\u00e9_1": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_2": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_3": {
+    "entit\u00e9": "h\u00e9sit\u00e2t",
+    "label": "PER"
+  },
+  "Entit\u00e9_4": {
+    "entit\u00e9": "Jeannette",
+    "label": "PER"
+  },
+  "Entit\u00e9_5": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_6": {
+    "entit\u00e9": "Simon-Jacques",
+    "label": "PER"
+  },
+  "Entit\u00e9_7": {
+    "entit\u00e9": "J. -J. Rousseau",
+    "label": "PER"
+  },
+  "Entit\u00e9_8": {
+    "entit\u00e9": "Aristocrate",
+    "label": "PER"
+  },
+  "Entit\u00e9_9": {
+    "entit\u00e9": "Sacr\u00e9-C\u0153ur",
+    "label": "LOC"
+  },
+  "Entit\u00e9_10": {
+    "entit\u00e9": "V\u00e9ron\u00e8se",
+    "label": "PER"
+  },
+  "Entit\u00e9_11": {
+    "entit\u00e9": "Hollande",
+    "label": "LOC"
+  },
+  "Entit\u00e9_12": {
+    "entit\u00e9": "Oh ! papa",
+    "label": "MISC"
+  },
+  "Entit\u00e9_13": {
+    "entit\u00e9": "Si",
+    "label": "MISC"
+  },
+  "Entit\u00e9_14": {
+    "entit\u00e9": "Sacr\u00e9-C\u0153ur",
+    "label": "LOC"
+  },
+  "Entit\u00e9_15": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_16": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_17": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_18": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_19": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_20": {
+    "entit\u00e9": "Normande",
+    "label": "LOC"
+  },
+  "Entit\u00e9_21": {
+    "entit\u00e9": "pays de Caux",
+    "label": "LOC"
+  },
+  "Entit\u00e9_22": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_23": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_24": {
+    "entit\u00e9": "Ad\u00e9la\u00efde",
+    "label": "LOC"
+  },
+  "Entit\u00e9_25": {
+    "entit\u00e9": "Ad\u00e9la\u00efde",
+    "label": "LOC"
+  },
+  "Entit\u00e9_26": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_27": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_28": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_29": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_30": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_31": {
+    "entit\u00e9": "mont Riboudet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_32": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_33": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_34": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_35": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_36": {
+    "entit\u00e9": "fillette",
+    "label": "PER"
+  },
+  "Entit\u00e9_37": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_38": {
+    "entit\u00e9": "Le soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_39": {
+    "entit\u00e9": "lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_40": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_41": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_42": {
+    "entit\u00e9": "sauta",
+    "label": "MISC"
+  },
+  "Entit\u00e9_43": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_44": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_45": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_46": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_47": {
+    "entit\u00e9": "Fables de La Fontaine",
+    "label": "PER"
+  },
+  "Entit\u00e9_48": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_49": {
+    "entit\u00e9": "Renard",
+    "label": "MISC"
+  },
+  "Entit\u00e9_50": {
+    "entit\u00e9": "Cigogne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_51": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_52": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_53": {
+    "entit\u00e9": "Flamands",
+    "label": "LOC"
+  },
+  "Entit\u00e9_54": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_55": {
+    "entit\u00e9": "Pyrame",
+    "label": "LOC"
+  },
+  "Entit\u00e9_56": {
+    "entit\u00e9": "Thysb\u00e9",
+    "label": "LOC"
+  },
+  "Entit\u00e9_57": {
+    "entit\u00e9": "Louis XV",
+    "label": "PER"
+  },
+  "Entit\u00e9_58": {
+    "entit\u00e9": "l'Empire",
+    "label": "LOC"
+  },
+  "Entit\u00e9_59": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_60": {
+    "entit\u00e9": "Pyrame",
+    "label": "PER"
+  },
+  "Entit\u00e9_61": {
+    "entit\u00e9": "Thysb\u00e9",
+    "label": "LOC"
+  },
+  "Entit\u00e9_62": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_63": {
+    "entit\u00e9": "Normandie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_64": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_65": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_66": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_67": {
+    "entit\u00e9": "monotone",
+    "label": "MISC"
+  },
+  "Entit\u00e9_68": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_69": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_70": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_71": {
+    "entit\u00e9": "r\u00eava",
+    "label": "MISC"
+  },
+  "Entit\u00e9_72": {
+    "entit\u00e9": "du Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_73": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_74": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_75": {
+    "entit\u00e9": "bosquet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_76": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_77": {
+    "entit\u00e9": "d\u00e9tala",
+    "label": "PER"
+  },
+  "Entit\u00e9_78": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_79": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_80": {
+    "entit\u00e9": "\u00c9touvent",
+    "label": "LOC"
+  },
+  "Entit\u00e9_81": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_82": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_83": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_84": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_85": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_86": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_87": {
+    "entit\u00e9": "Jos\u00e9phin Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_88": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_89": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_90": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_91": {
+    "entit\u00e9": "Quelquefois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_92": {
+    "entit\u00e9": "Yport",
+    "label": "PER"
+  },
+  "Entit\u00e9_93": {
+    "entit\u00e9": "lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_94": {
+    "entit\u00e9": "phare de F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_95": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_96": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_97": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_98": {
+    "entit\u00e9": "Un m\u00e9decin consult\u00e9 dix ans auparavant",
+    "label": "MISC"
+  },
+  "Entit\u00e9_99": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_100": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_101": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_102": {
+    "entit\u00e9": "l'Empire",
+    "label": "LOC"
+  },
+  "Entit\u00e9_103": {
+    "entit\u00e9": "Corinne",
+    "label": "PER"
+  },
+  "Entit\u00e9_104": {
+    "entit\u00e9": "B\u00e9ranger",
+    "label": "PER"
+  },
+  "Entit\u00e9_105": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_106": {
+    "entit\u00e9": "Walter Scott",
+    "label": "PER"
+  },
+  "Entit\u00e9_107": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_108": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_109": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_110": {
+    "entit\u00e9": "tressailli",
+    "label": "LOC"
+  },
+  "Entit\u00e9_111": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_112": {
+    "entit\u00e9": "la R\u00e9volution",
+    "label": "MISC"
+  },
+  "Entit\u00e9_113": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_114": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_115": {
+    "entit\u00e9": "campagnard",
+    "label": "PER"
+  },
+  "Entit\u00e9_116": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_117": {
+    "entit\u00e9": "attir\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_118": {
+    "entit\u00e9": "M. le vicomte",
+    "label": "MISC"
+  },
+  "Entit\u00e9_119": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_120": {
+    "entit\u00e9": "Lamare de l'Eure",
+    "label": "PER"
+  },
+  "Entit\u00e9_121": {
+    "entit\u00e9": "Jean de Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_122": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_123": {
+    "entit\u00e9": "\u00c9touvent",
+    "label": "LOC"
+  },
+  "Entit\u00e9_124": {
+    "entit\u00e9": "Amenez-le chez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_125": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_126": {
+    "entit\u00e9": "Permettez-moi",
+    "label": "PER"
+  },
+  "Entit\u00e9_127": {
+    "entit\u00e9": "madame la baronne",
+    "label": "PER"
+  },
+  "Entit\u00e9_128": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_129": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_130": {
+    "entit\u00e9": "bruni",
+    "label": "PER"
+  },
+  "Entit\u00e9_131": {
+    "entit\u00e9": "luisante",
+    "label": "PER"
+  },
+  "Entit\u00e9_132": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_133": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_134": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_135": {
+    "entit\u00e9": "M. des Cultaux",
+    "label": "PER"
+  },
+  "Entit\u00e9_136": {
+    "entit\u00e9": "vicomte",
+    "label": "PER"
+  },
+  "Entit\u00e9_137": {
+    "entit\u00e9": "Saunoy de Varfleur",
+    "label": "PER"
+  },
+  "Entit\u00e9_138": {
+    "entit\u00e9": "Gontran",
+    "label": "PER"
+  },
+  "Entit\u00e9_139": {
+    "entit\u00e9": "Coursil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_140": {
+    "entit\u00e9": "Coursil-Courville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_141": {
+    "entit\u00e9": "Mlle de la Roche-Aubert",
+    "label": "PER"
+  },
+  "Entit\u00e9_142": {
+    "entit\u00e9": "Crisange",
+    "label": "LOC"
+  },
+  "Entit\u00e9_143": {
+    "entit\u00e9": "M. de Crisange",
+    "label": "PER"
+  },
+  "Entit\u00e9_144": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_145": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_146": {
+    "entit\u00e9": "Crisange",
+    "label": "LOC"
+  },
+  "Entit\u00e9_147": {
+    "entit\u00e9": "comte d'",
+    "label": "PER"
+  },
+  "Entit\u00e9_148": {
+    "entit\u00e9": "Savez",
+    "label": "PER"
+  },
+  "Entit\u00e9_149": {
+    "entit\u00e9": "Viloise",
+    "label": "LOC"
+  },
+  "Entit\u00e9_150": {
+    "entit\u00e9": "Touraine",
+    "label": "LOC"
+  },
+  "Entit\u00e9_151": {
+    "entit\u00e9": "Auvergne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_152": {
+    "entit\u00e9": "Je crois",
+    "label": "MISC"
+  },
+  "Entit\u00e9_153": {
+    "entit\u00e9": "Anglais",
+    "label": "MISC"
+  },
+  "Entit\u00e9_154": {
+    "entit\u00e9": "Bassolle",
+    "label": "PER"
+  },
+  "Entit\u00e9_155": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_156": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_157": {
+    "entit\u00e9": "marquis de Coutelier",
+    "label": "PER"
+  },
+  "Entit\u00e9_158": {
+    "entit\u00e9": "Briseville",
+    "label": "PER"
+  },
+  "Entit\u00e9_159": {
+    "entit\u00e9": "comte de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_160": {
+    "entit\u00e9": "Vrillette",
+    "label": "LOC"
+  },
+  "Entit\u00e9_161": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_162": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_163": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_164": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_165": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_166": {
+    "entit\u00e9": "\u00c9tretat",
+    "label": "LOC"
+  },
+  "Entit\u00e9_167": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_168": {
+    "entit\u00e9": "Oh ! papa",
+    "label": "MISC"
+  },
+  "Entit\u00e9_169": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_170": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_171": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_172": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_173": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_174": {
+    "entit\u00e9": "Oh\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_175": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_176": {
+    "entit\u00e9": "\u00c9tretat",
+    "label": "LOC"
+  },
+  "Entit\u00e9_177": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_178": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_179": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_180": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_181": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_182": {
+    "entit\u00e9": "\u00c9tretat",
+    "label": "LOC"
+  },
+  "Entit\u00e9_183": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_184": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_185": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_186": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_187": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_188": {
+    "entit\u00e9": "Allez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_189": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_190": {
+    "entit\u00e9": "Un soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_191": {
+    "entit\u00e9": "jauni",
+    "label": "PER"
+  },
+  "Entit\u00e9_192": {
+    "entit\u00e9": "Encaiss\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_193": {
+    "entit\u00e9": "Tiens",
+    "label": "LOC"
+  },
+  "Entit\u00e9_194": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_195": {
+    "entit\u00e9": "Jeanne attendrie",
+    "label": "PER"
+  },
+  "Entit\u00e9_196": {
+    "entit\u00e9": "Chambre-aux-Demoiselles",
+    "label": "LOC"
+  },
+  "Entit\u00e9_197": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_198": {
+    "entit\u00e9": "Le vicomte",
+    "label": "PER"
+  },
+  "Entit\u00e9_199": {
+    "entit\u00e9": "Italie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_200": {
+    "entit\u00e9": "Gr\u00e8ce",
+    "label": "LOC"
+  },
+  "Entit\u00e9_201": {
+    "entit\u00e9": "Gr\u00e8ce",
+    "label": "LOC"
+  },
+  "Entit\u00e9_202": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_203": {
+    "entit\u00e9": "Suisse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_204": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_205": {
+    "entit\u00e9": "Gr\u00e8ce",
+    "label": "LOC"
+  },
+  "Entit\u00e9_206": {
+    "entit\u00e9": "Moi, l'Angleterre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_207": {
+    "entit\u00e9": "Chinois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_208": {
+    "entit\u00e9": "Lapons",
+    "label": "MISC"
+  },
+  "Entit\u00e9_209": {
+    "entit\u00e9": "la France",
+    "label": "LOC"
+  },
+  "Entit\u00e9_210": {
+    "entit\u00e9": "Ath\u00e8nes",
+    "label": "LOC"
+  },
+  "Entit\u00e9_211": {
+    "entit\u00e9": "Le soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_212": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_213": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_214": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_215": {
+    "entit\u00e9": "Providence",
+    "label": "LOC"
+  },
+  "Entit\u00e9_216": {
+    "entit\u00e9": "L'AMOUR ? \n",
+    "label": "MISC"
+  },
+  "Entit\u00e9_217": {
+    "entit\u00e9": "Lerat",
+    "label": "PER"
+  },
+  "Entit\u00e9_218": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_219": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_220": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_221": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_222": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_223": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_224": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_225": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_226": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_227": {
+    "entit\u00e9": "Vrai",
+    "label": "PER"
+  },
+  "Entit\u00e9_228": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_229": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_230": {
+    "entit\u00e9": "surplis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_231": {
+    "entit\u00e9": "JEANNE",
+    "label": "MISC"
+  },
+  "Entit\u00e9_232": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_233": {
+    "entit\u00e9": "surplis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_234": {
+    "entit\u00e9": "Eut",
+    "label": "LOC"
+  },
+  "Entit\u00e9_235": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_236": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_237": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_238": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_239": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_240": {
+    "entit\u00e9": "huppe blanche",
+    "label": "PER"
+  },
+  "Entit\u00e9_241": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_242": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_243": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_244": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_245": {
+    "entit\u00e9": "R\u00e9pondez",
+    "label": "PER"
+  },
+  "Entit\u00e9_246": {
+    "entit\u00e9": "chambre de Jeanne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_247": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_248": {
+    "entit\u00e9": "Ta m\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_249": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_250": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_251": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_252": {
+    "entit\u00e9": "Italie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_253": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_254": {
+    "entit\u00e9": "Versailles",
+    "label": "LOC"
+  },
+  "Entit\u00e9_255": {
+    "entit\u00e9": "Lise",
+    "label": "PER"
+  },
+  "Entit\u00e9_256": {
+    "entit\u00e9": "Lise",
+    "label": "PER"
+  },
+  "Entit\u00e9_257": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_258": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_259": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_260": {
+    "entit\u00e9": "proprette",
+    "label": "PER"
+  },
+  "Entit\u00e9_261": {
+    "entit\u00e9": "Quelquefois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_262": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_263": {
+    "entit\u00e9": "Lise",
+    "label": "LOC"
+  },
+  "Entit\u00e9_264": {
+    "entit\u00e9": "Coco",
+    "label": "PER"
+  },
+  "Entit\u00e9_265": {
+    "entit\u00e9": "Lise",
+    "label": "PER"
+  },
+  "Entit\u00e9_266": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_267": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_268": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_269": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_270": {
+    "entit\u00e9": "Tiens",
+    "label": "LOC"
+  },
+  "Entit\u00e9_271": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_272": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_273": {
+    "entit\u00e9": "Ad\u00e9la\u00efde",
+    "label": "LOC"
+  },
+  "Entit\u00e9_274": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_275": {
+    "entit\u00e9": "lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_276": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_277": {
+    "entit\u00e9": "Attir\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_278": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_279": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_280": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_281": {
+    "entit\u00e9": "Certainement",
+    "label": "PER"
+  },
+  "Entit\u00e9_282": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_283": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_284": {
+    "entit\u00e9": "Tiens",
+    "label": "LOC"
+  },
+  "Entit\u00e9_285": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_286": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_287": {
+    "entit\u00e9": "Rentrons",
+    "label": "LOC"
+  },
+  "Entit\u00e9_288": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_289": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_290": {
+    "entit\u00e9": "Tante",
+    "label": "PER"
+  },
+  "Entit\u00e9_291": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_292": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_293": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_294": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_295": {
+    "entit\u00e9": "Rest\u00e9s seuls",
+    "label": "MISC"
+  },
+  "Entit\u00e9_296": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_297": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_298": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_299": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_300": {
+    "entit\u00e9": "Mari\u00e9e !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_301": {
+    "entit\u00e9": "Attendu",
+    "label": "LOC"
+  },
+  "Entit\u00e9_302": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_303": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_304": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_305": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_306": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_307": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_308": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_309": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_310": {
+    "entit\u00e9": "Tiens",
+    "label": "LOC"
+  },
+  "Entit\u00e9_311": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_312": {
+    "entit\u00e9": "Retournons",
+    "label": "MISC"
+  },
+  "Entit\u00e9_313": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_314": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_315": {
+    "entit\u00e9": "Allons",
+    "label": "LOC"
+  },
+  "Entit\u00e9_316": {
+    "entit\u00e9": "vert-de-gris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_317": {
+    "entit\u00e9": "Rustres",
+    "label": "PER"
+  },
+  "Entit\u00e9_318": {
+    "entit\u00e9": "Ganache",
+    "label": "PER"
+  },
+  "Entit\u00e9_319": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_320": {
+    "entit\u00e9": "Cana",
+    "label": "PER"
+  },
+  "Entit\u00e9_321": {
+    "entit\u00e9": "Ganache",
+    "label": "PER"
+  },
+  "Entit\u00e9_322": {
+    "entit\u00e9": "Ganache",
+    "label": "PER"
+  },
+  "Entit\u00e9_323": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_324": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_325": {
+    "entit\u00e9": "Mignonne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_326": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_327": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_328": {
+    "entit\u00e9": "mignonne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_329": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_330": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_331": {
+    "entit\u00e9": "Pr\u00eate",
+    "label": "MISC"
+  },
+  "Entit\u00e9_332": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_333": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_334": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_335": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_336": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_337": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_338": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_339": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_340": {
+    "entit\u00e9": "serrure grin\u00e7a",
+    "label": "LOC"
+  },
+  "Entit\u00e9_341": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_342": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_343": {
+    "entit\u00e9": "Voudrez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_344": {
+    "entit\u00e9": "Voulez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_345": {
+    "entit\u00e9": "Soudain",
+    "label": "LOC"
+  },
+  "Entit\u00e9_346": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_347": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_348": {
+    "entit\u00e9": "Aussit\u00f4t",
+    "label": "LOC"
+  },
+  "Entit\u00e9_349": {
+    "entit\u00e9": "bras-le-corps",
+    "label": "LOC"
+  },
+  "Entit\u00e9_350": {
+    "entit\u00e9": "Las",
+    "label": "LOC"
+  },
+  "Entit\u00e9_351": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_352": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_353": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_354": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_355": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_356": {
+    "entit\u00e9": "Huit heures",
+    "label": "MISC"
+  },
+  "Entit\u00e9_357": {
+    "entit\u00e9": "Allons",
+    "label": "LOC"
+  },
+  "Entit\u00e9_358": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_359": {
+    "entit\u00e9": "Tu sais",
+    "label": "MISC"
+  },
+  "Entit\u00e9_360": {
+    "entit\u00e9": "V \nQuatre jours",
+    "label": "PER"
+  },
+  "Entit\u00e9_361": {
+    "entit\u00e9": "Marseille",
+    "label": "LOC"
+  },
+  "Entit\u00e9_362": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_363": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_364": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_365": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_366": {
+    "entit\u00e9": "Combien",
+    "label": "LOC"
+  },
+  "Entit\u00e9_367": {
+    "entit\u00e9": "Marseille",
+    "label": "LOC"
+  },
+  "Entit\u00e9_368": {
+    "entit\u00e9": "Roi-Louis",
+    "label": "PER"
+  },
+  "Entit\u00e9_369": {
+    "entit\u00e9": "Naples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_370": {
+    "entit\u00e9": "Ajaccio",
+    "label": "LOC"
+  },
+  "Entit\u00e9_371": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_372": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_373": {
+    "entit\u00e9": "Napol\u00e9on",
+    "label": "PER"
+  },
+  "Entit\u00e9_374": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_375": {
+    "entit\u00e9": "C\u00f4te",
+    "label": "LOC"
+  },
+  "Entit\u00e9_376": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_377": {
+    "entit\u00e9": "Soudain",
+    "label": "LOC"
+  },
+  "Entit\u00e9_378": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_379": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_380": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_381": {
+    "entit\u00e9": "ravie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_382": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_383": {
+    "entit\u00e9": "l'Afrique",
+    "label": "LOC"
+  },
+  "Entit\u00e9_384": {
+    "entit\u00e9": "Afrique",
+    "label": "LOC"
+  },
+  "Entit\u00e9_385": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_386": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_387": {
+    "entit\u00e9": "Midi",
+    "label": "LOC"
+  },
+  "Entit\u00e9_388": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_389": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_390": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_391": {
+    "entit\u00e9": "Sainte-H\u00e9l\u00e8ne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_392": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_393": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_394": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_395": {
+    "entit\u00e9": "tranquille",
+    "label": "LOC"
+  },
+  "Entit\u00e9_396": {
+    "entit\u00e9": "Roi-Louis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_397": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_398": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_399": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_400": {
+    "entit\u00e9": "Julien",
+    "label": "LOC"
+  },
+  "Entit\u00e9_401": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_402": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_403": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_404": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_405": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_406": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_407": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_408": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_409": {
+    "entit\u00e9": "califourchon",
+    "label": "LOC"
+  },
+  "Entit\u00e9_410": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_411": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_412": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_413": {
+    "entit\u00e9": "Courons",
+    "label": "MISC"
+  },
+  "Entit\u00e9_414": {
+    "entit\u00e9": "buis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_415": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_416": {
+    "entit\u00e9": "golfe de Sagone",
+    "label": "LOC"
+  },
+  "Entit\u00e9_417": {
+    "entit\u00e9": "Carg\u00e8se",
+    "label": "MISC"
+  },
+  "Entit\u00e9_418": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_419": {
+    "entit\u00e9": "Piana",
+    "label": "LOC"
+  },
+  "Entit\u00e9_420": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_421": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_422": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_423": {
+    "entit\u00e9": "Hauts",
+    "label": "LOC"
+  },
+  "Entit\u00e9_424": {
+    "entit\u00e9": "tortus",
+    "label": "PER"
+  },
+  "Entit\u00e9_425": {
+    "entit\u00e9": "crochus",
+    "label": "PER"
+  },
+  "Entit\u00e9_426": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_427": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_428": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_429": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_430": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_431": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_432": {
+    "entit\u00e9": "Qu'as-tu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_433": {
+    "entit\u00e9": "val d'Ota",
+    "label": "LOC"
+  },
+  "Entit\u00e9_434": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_435": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_436": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_437": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_438": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_439": {
+    "entit\u00e9": "Soudain",
+    "label": "LOC"
+  },
+  "Entit\u00e9_440": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_441": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_442": {
+    "entit\u00e9": "l\u00e8vre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_443": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_444": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_445": {
+    "entit\u00e9": "\u00c9visa",
+    "label": "LOC"
+  },
+  "Entit\u00e9_446": {
+    "entit\u00e9": "Paoli Palabretti",
+    "label": "PER"
+  },
+  "Entit\u00e9_447": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_448": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_449": {
+    "entit\u00e9": "Bonjour",
+    "label": "MISC"
+  },
+  "Entit\u00e9_450": {
+    "entit\u00e9": "Palabretti",
+    "label": "PER"
+  },
+  "Entit\u00e9_451": {
+    "entit\u00e9": "Jean Rinaldi",
+    "label": "PER"
+  },
+  "Entit\u00e9_452": {
+    "entit\u00e9": "Mathieu Lori",
+    "label": "PER"
+  },
+  "Entit\u00e9_453": {
+    "entit\u00e9": "Tenez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_454": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_455": {
+    "entit\u00e9": "Mathieu",
+    "label": "PER"
+  },
+  "Entit\u00e9_456": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_457": {
+    "entit\u00e9": "Albertacce",
+    "label": "LOC"
+  },
+  "Entit\u00e9_458": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_459": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_460": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_461": {
+    "entit\u00e9": "Paulina Sinacoupi",
+    "label": "PER"
+  },
+  "Entit\u00e9_462": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_463": {
+    "entit\u00e9": "Mathieu",
+    "label": "PER"
+  },
+  "Entit\u00e9_464": {
+    "entit\u00e9": "Mathieu",
+    "label": "PER"
+  },
+  "Entit\u00e9_465": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_466": {
+    "entit\u00e9": "Jean",
+    "label": "PER"
+  },
+  "Entit\u00e9_467": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_468": {
+    "entit\u00e9": "Paoli Palabretti",
+    "label": "PER"
+  },
+  "Entit\u00e9_469": {
+    "entit\u00e9": "Philippi Palabretti",
+    "label": "PER"
+  },
+  "Entit\u00e9_470": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_471": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_472": {
+    "entit\u00e9": "Nicolas Morali",
+    "label": "PER"
+  },
+  "Entit\u00e9_473": {
+    "entit\u00e9": "Niolo",
+    "label": "LOC"
+  },
+  "Entit\u00e9_474": {
+    "entit\u00e9": "petite Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_475": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_476": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_477": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_478": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_479": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_480": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_481": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_482": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_483": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_484": {
+    "entit\u00e9": "Lamoureux",
+    "label": "PER"
+  },
+  "Entit\u00e9_485": {
+    "entit\u00e9": "Damas",
+    "label": "LOC"
+  },
+  "Entit\u00e9_486": {
+    "entit\u00e9": "val d'Ota",
+    "label": "LOC"
+  },
+  "Entit\u00e9_487": {
+    "entit\u00e9": "Bastia",
+    "label": "LOC"
+  },
+  "Entit\u00e9_488": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_489": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_490": {
+    "entit\u00e9": "donne-les-moi",
+    "label": "LOC"
+  },
+  "Entit\u00e9_491": {
+    "entit\u00e9": "Livourne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_492": {
+    "entit\u00e9": "Florence",
+    "label": "LOC"
+  },
+  "Entit\u00e9_493": {
+    "entit\u00e9": "G\u00eanes",
+    "label": "LOC"
+  },
+  "Entit\u00e9_494": {
+    "entit\u00e9": "Corniche",
+    "label": "PER"
+  },
+  "Entit\u00e9_495": {
+    "entit\u00e9": "Marseille",
+    "label": "LOC"
+  },
+  "Entit\u00e9_496": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_497": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_498": {
+    "entit\u00e9": "Normandie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_499": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_500": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_501": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_502": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_503": {
+    "entit\u00e9": "Corse d'\u00c9visa",
+    "label": "PER"
+  },
+  "Entit\u00e9_504": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_505": {
+    "entit\u00e9": "Combien",
+    "label": "LOC"
+  },
+  "Entit\u00e9_506": {
+    "entit\u00e9": "Huit jours",
+    "label": "MISC"
+  },
+  "Entit\u00e9_507": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_508": {
+    "entit\u00e9": "VI",
+    "label": "LOC"
+  },
+  "Entit\u00e9_509": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_510": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_511": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_512": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_513": {
+    "entit\u00e9": "Garantis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_514": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_515": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_516": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_517": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_518": {
+    "entit\u00e9": "val d'Ota",
+    "label": "LOC"
+  },
+  "Entit\u00e9_519": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_520": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_521": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_522": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_523": {
+    "entit\u00e9": "cigogne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_524": {
+    "entit\u00e9": "Ah ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_525": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_526": {
+    "entit\u00e9": "Vois-tu",
+    "label": "LOC"
+  },
+  "Entit\u00e9_527": {
+    "entit\u00e9": "fillette",
+    "label": "PER"
+  },
+  "Entit\u00e9_528": {
+    "entit\u00e9": "Remont\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_529": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_530": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_531": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_532": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_533": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_534": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_535": {
+    "entit\u00e9": "cognac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_536": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_537": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_538": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_539": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_540": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_541": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_542": {
+    "entit\u00e9": "Coutelier",
+    "label": "LOC"
+  },
+  "Entit\u00e9_543": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_544": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_545": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_546": {
+    "entit\u00e9": "Le Perthuis des Vauds",
+    "label": "MISC"
+  },
+  "Entit\u00e9_547": {
+    "entit\u00e9": "Bolbec",
+    "label": "LOC"
+  },
+  "Entit\u00e9_548": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_549": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_550": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_551": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_552": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_553": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_554": {
+    "entit\u00e9": "besogne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_555": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_556": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_557": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_558": {
+    "entit\u00e9": "Faut",
+    "label": "LOC"
+  },
+  "Entit\u00e9_559": {
+    "entit\u00e9": "Bataille",
+    "label": "PER"
+  },
+  "Entit\u00e9_560": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_561": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_562": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_563": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_564": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_565": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_566": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_567": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_568": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_569": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_570": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_571": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_572": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_573": {
+    "entit\u00e9": "Mon Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_574": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_575": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_576": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_577": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_578": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_579": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_580": {
+    "entit\u00e9": "Mornes",
+    "label": "LOC"
+  },
+  "Entit\u00e9_581": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_582": {
+    "entit\u00e9": "housses",
+    "label": "LOC"
+  },
+  "Entit\u00e9_583": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_584": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_585": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_586": {
+    "entit\u00e9": "aigrelette",
+    "label": "PER"
+  },
+  "Entit\u00e9_587": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_588": {
+    "entit\u00e9": "Restez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_589": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_590": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_591": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_592": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_593": {
+    "entit\u00e9": "la France",
+    "label": "LOC"
+  },
+  "Entit\u00e9_594": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_595": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_596": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_597": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_598": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_599": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_600": {
+    "entit\u00e9": "Briseville",
+    "label": "PER"
+  },
+  "Entit\u00e9_601": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_602": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_603": {
+    "entit\u00e9": "Votre ch\u00e2teau des Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_604": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_605": {
+    "entit\u00e9": "M. de Briseville",
+    "label": "PER"
+  },
+  "Entit\u00e9_606": {
+    "entit\u00e9": "Pelle",
+    "label": "LOC"
+  },
+  "Entit\u00e9_607": {
+    "entit\u00e9": "Normandie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_608": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_609": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_610": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_611": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_612": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_613": {
+    "entit\u00e9": "P\u00e8re\u2026",
+    "label": "MISC"
+  },
+  "Entit\u00e9_614": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_615": {
+    "entit\u00e9": "Jacques",
+    "label": "PER"
+  },
+  "Entit\u00e9_616": {
+    "entit\u00e9": "Avez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_617": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_618": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_619": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_620": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_621": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_622": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_623": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_624": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_625": {
+    "entit\u00e9": "No\u00ebl",
+    "label": "MISC"
+  },
+  "Entit\u00e9_626": {
+    "entit\u00e9": "P\u00e8re et petite m\u00e8re",
+    "label": "MISC"
+  },
+  "Entit\u00e9_627": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_628": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_629": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_630": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_631": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_632": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_633": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_634": {
+    "entit\u00e9": "tressailli",
+    "label": "PER"
+  },
+  "Entit\u00e9_635": {
+    "entit\u00e9": "varech",
+    "label": "LOC"
+  },
+  "Entit\u00e9_636": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_637": {
+    "entit\u00e9": "Perret",
+    "label": "LOC"
+  },
+  "Entit\u00e9_638": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_639": {
+    "entit\u00e9": "Jeannette",
+    "label": "PER"
+  },
+  "Entit\u00e9_640": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_641": {
+    "entit\u00e9": "M\u00e9diterran\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_642": {
+    "entit\u00e9": "M\u00e9diterran\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_643": {
+    "entit\u00e9": "Regarde",
+    "label": "PER"
+  },
+  "Entit\u00e9_644": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_645": {
+    "entit\u00e9": "M\u00e9diterran\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_646": {
+    "entit\u00e9": "Parfois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_647": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_648": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_649": {
+    "entit\u00e9": "fillette",
+    "label": "PER"
+  },
+  "Entit\u00e9_650": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_651": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_652": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_653": {
+    "entit\u00e9": "b\u00e9sigue",
+    "label": "PER"
+  },
+  "Entit\u00e9_654": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_655": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_656": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_657": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_658": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_659": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_660": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_661": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_662": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_663": {
+    "entit\u00e9": "Es-tu malade",
+    "label": "MISC"
+  },
+  "Entit\u00e9_664": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_665": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_666": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_667": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_668": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_669": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_670": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_671": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_672": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_673": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_674": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_675": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_676": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_677": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_678": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_679": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_680": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_681": {
+    "entit\u00e9": "Dentu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_682": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_683": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_684": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_685": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_686": {
+    "entit\u00e9": "Toi",
+    "label": "PER"
+  },
+  "Entit\u00e9_687": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_688": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_689": {
+    "entit\u00e9": "connais-tu",
+    "label": "LOC"
+  },
+  "Entit\u00e9_690": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_691": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_692": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_693": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_694": {
+    "entit\u00e9": "Aussit\u00f4t",
+    "label": "LOC"
+  },
+  "Entit\u00e9_695": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_696": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_697": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_698": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_699": {
+    "entit\u00e9": "Dentu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_700": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_701": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_702": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_703": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_704": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_705": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_706": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_707": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_708": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_709": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_710": {
+    "entit\u00e9": "Ta m\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_711": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_712": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_713": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_714": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_715": {
+    "entit\u00e9": "veux-tu",
+    "label": "PER"
+  },
+  "Entit\u00e9_716": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_717": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_718": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_719": {
+    "entit\u00e9": "vois-tu",
+    "label": "LOC"
+  },
+  "Entit\u00e9_720": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_721": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_722": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_723": {
+    "entit\u00e9": "Rosalie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_724": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_725": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_726": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_727": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_728": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_729": {
+    "entit\u00e9": "frimas",
+    "label": "PER"
+  },
+  "Entit\u00e9_730": {
+    "entit\u00e9": "La plaine",
+    "label": "LOC"
+  },
+  "Entit\u00e9_731": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_732": {
+    "entit\u00e9": "Tant\u00f4t",
+    "label": "PER"
+  },
+  "Entit\u00e9_733": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_734": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_735": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_736": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_737": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_738": {
+    "entit\u00e9": "sauta",
+    "label": "MISC"
+  },
+  "Entit\u00e9_739": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_740": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_741": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_742": {
+    "entit\u00e9": "Surprise",
+    "label": "PER"
+  },
+  "Entit\u00e9_743": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_744": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_745": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_746": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_747": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_748": {
+    "entit\u00e9": "\u00c9coute",
+    "label": "PER"
+  },
+  "Entit\u00e9_749": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_750": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_751": {
+    "entit\u00e9": "Pas de lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_752": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_753": {
+    "entit\u00e9": "Lastique",
+    "label": "PER"
+  },
+  "Entit\u00e9_754": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_755": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_756": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_757": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_758": {
+    "entit\u00e9": "Maman",
+    "label": "PER"
+  },
+  "Entit\u00e9_759": {
+    "entit\u00e9": "Soudain",
+    "label": "LOC"
+  },
+  "Entit\u00e9_760": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_761": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_762": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_763": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_764": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_765": {
+    "entit\u00e9": "Tenez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_766": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_767": {
+    "entit\u00e9": "soyez calme",
+    "label": "PER"
+  },
+  "Entit\u00e9_768": {
+    "entit\u00e9": "madame la baronne",
+    "label": "PER"
+  },
+  "Entit\u00e9_769": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_770": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_771": {
+    "entit\u00e9": "sauta",
+    "label": "MISC"
+  },
+  "Entit\u00e9_772": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_773": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_774": {
+    "entit\u00e9": "Dentu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_775": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_776": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_777": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_778": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_779": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_780": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_781": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_782": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_783": {
+    "entit\u00e9": "Julien t'",
+    "label": "PER"
+  },
+  "Entit\u00e9_784": {
+    "entit\u00e9": "Non",
+    "label": "PER"
+  },
+  "Entit\u00e9_785": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_786": {
+    "entit\u00e9": "Dors",
+    "label": "LOC"
+  },
+  "Entit\u00e9_787": {
+    "entit\u00e9": "calme-toi",
+    "label": "LOC"
+  },
+  "Entit\u00e9_788": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_789": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_790": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_791": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_792": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_793": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_794": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_795": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_796": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_797": {
+    "entit\u00e9": "\u00c9coute",
+    "label": "PER"
+  },
+  "Entit\u00e9_798": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_799": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_800": {
+    "entit\u00e9": "Monsieur",
+    "label": "PER"
+  },
+  "Entit\u00e9_801": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_802": {
+    "entit\u00e9": "jura",
+    "label": "LOC"
+  },
+  "Entit\u00e9_803": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_804": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_805": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_806": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_807": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_808": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_809": {
+    "entit\u00e9": "Jeanne soudain",
+    "label": "PER"
+  },
+  "Entit\u00e9_810": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_811": {
+    "entit\u00e9": "Calmez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_812": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_813": {
+    "entit\u00e9": "\u00ab Petit p\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_814": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_815": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_816": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_817": {
+    "entit\u00e9": "H\u00e9 !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_818": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_819": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_820": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_821": {
+    "entit\u00e9": "resta debout",
+    "label": "PER"
+  },
+  "Entit\u00e9_822": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_823": {
+    "entit\u00e9": "Immobile",
+    "label": "LOC"
+  },
+  "Entit\u00e9_824": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_825": {
+    "entit\u00e9": "Parle",
+    "label": "MISC"
+  },
+  "Entit\u00e9_826": {
+    "entit\u00e9": "R\u00e9ponds",
+    "label": "MISC"
+  },
+  "Entit\u00e9_827": {
+    "entit\u00e9": "Madeleines",
+    "label": "LOC"
+  },
+  "Entit\u00e9_828": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_829": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_830": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_831": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_832": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_833": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_834": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_835": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_836": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_837": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_838": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_839": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_840": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_841": {
+    "entit\u00e9": "Rosalie sanglota",
+    "label": "PER"
+  },
+  "Entit\u00e9_842": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_843": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_844": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_845": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_846": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_847": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_848": {
+    "entit\u00e9": "Emm\u00e8ne-la",
+    "label": "MISC"
+  },
+  "Entit\u00e9_849": {
+    "entit\u00e9": "Mme",
+    "label": "PER"
+  },
+  "Entit\u00e9_850": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_851": {
+    "entit\u00e9": "souleva",
+    "label": "LOC"
+  },
+  "Entit\u00e9_852": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_853": {
+    "entit\u00e9": "Savez",
+    "label": "PER"
+  },
+  "Entit\u00e9_854": {
+    "entit\u00e9": "Voil\u00e0",
+    "label": "PER"
+  },
+  "Entit\u00e9_855": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_856": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_857": {
+    "entit\u00e9": "Tenez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_858": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_859": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_860": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_861": {
+    "entit\u00e9": "Moi, j'ai rien",
+    "label": "MISC"
+  },
+  "Entit\u00e9_862": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_863": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_864": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_865": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_866": {
+    "entit\u00e9": "Voyons",
+    "label": "LOC"
+  },
+  "Entit\u00e9_867": {
+    "entit\u00e9": "soyez raisonnable",
+    "label": "MISC"
+  },
+  "Entit\u00e9_868": {
+    "entit\u00e9": "demeur\u00e9 debout",
+    "label": "PER"
+  },
+  "Entit\u00e9_869": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_870": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_871": {
+    "entit\u00e9": "M. Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_872": {
+    "entit\u00e9": "Pouvez",
+    "label": "PER"
+  },
+  "Entit\u00e9_873": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_874": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_875": {
+    "entit\u00e9": "croyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_876": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_877": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_878": {
+    "entit\u00e9": "Barville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_879": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_880": {
+    "entit\u00e9": "Barville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_881": {
+    "entit\u00e9": "madame la baronne",
+    "label": "PER"
+  },
+  "Entit\u00e9_882": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_883": {
+    "entit\u00e9": "VIII",
+    "label": "MISC"
+  },
+  "Entit\u00e9_884": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_885": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_886": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_887": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_888": {
+    "entit\u00e9": "alourdie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_889": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_890": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_891": {
+    "entit\u00e9": "Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_892": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_893": {
+    "entit\u00e9": "Briseville",
+    "label": "MISC"
+  },
+  "Entit\u00e9_894": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_895": {
+    "entit\u00e9": "chambre de Jeanne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_896": {
+    "entit\u00e9": "les Fourville",
+    "label": "MISC"
+  },
+  "Entit\u00e9_897": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_898": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_899": {
+    "entit\u00e9": "Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_900": {
+    "entit\u00e9": "Mme",
+    "label": "PER"
+  },
+  "Entit\u00e9_901": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_902": {
+    "entit\u00e9": "comte de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_903": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_904": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_905": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_906": {
+    "entit\u00e9": "Voulez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_907": {
+    "entit\u00e9": "vicomte",
+    "label": "PER"
+  },
+  "Entit\u00e9_908": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_909": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_910": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_911": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_912": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_913": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_914": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_915": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_916": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_917": {
+    "entit\u00e9": "Dentu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_918": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_919": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_920": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_921": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_922": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_923": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_924": {
+    "entit\u00e9": "Croyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_925": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_926": {
+    "entit\u00e9": "Est-elle",
+    "label": "LOC"
+  },
+  "Entit\u00e9_927": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_928": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_929": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_930": {
+    "entit\u00e9": "Pierre-Simon-Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_931": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_932": {
+    "entit\u00e9": "Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_933": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_934": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_935": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_936": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_937": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_938": {
+    "entit\u00e9": "Taisez",
+    "label": "PER"
+  },
+  "Entit\u00e9_939": {
+    "entit\u00e9": "Songez",
+    "label": "PER"
+  },
+  "Entit\u00e9_940": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_941": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_942": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_943": {
+    "entit\u00e9": "terre de Barville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_944": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_945": {
+    "entit\u00e9": "Songez",
+    "label": "PER"
+  },
+  "Entit\u00e9_946": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_947": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_948": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_949": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_950": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_951": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_952": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_953": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_954": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_955": {
+    "entit\u00e9": "D\u00e9sir\u00e9 Lecoq",
+    "label": "PER"
+  },
+  "Entit\u00e9_956": {
+    "entit\u00e9": "Rosalie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_957": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_958": {
+    "entit\u00e9": "Approchez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_959": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_960": {
+    "entit\u00e9": "Sacrebleu",
+    "label": "PER"
+  },
+  "Entit\u00e9_961": {
+    "entit\u00e9": "sieu Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_962": {
+    "entit\u00e9": "M. Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_963": {
+    "entit\u00e9": "M'sieu Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_964": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_965": {
+    "entit\u00e9": "Barville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_966": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_967": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_968": {
+    "entit\u00e9": "Faut",
+    "label": "LOC"
+  },
+  "Entit\u00e9_969": {
+    "entit\u00e9": "I",
+    "label": "LOC"
+  },
+  "Entit\u00e9_970": {
+    "entit\u00e9": "R\u00e9pondez",
+    "label": "PER"
+  },
+  "Entit\u00e9_971": {
+    "entit\u00e9": "Normand",
+    "label": "LOC"
+  },
+  "Entit\u00e9_972": {
+    "entit\u00e9": "Topez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_973": {
+    "entit\u00e9": "Couillon",
+    "label": "PER"
+  },
+  "Entit\u00e9_974": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_975": {
+    "entit\u00e9": "Apportez",
+    "label": "PER"
+  },
+  "Entit\u00e9_976": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_977": {
+    "entit\u00e9": "D\u00e9sir\u00e9 Lecoq",
+    "label": "PER"
+  },
+  "Entit\u00e9_978": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_979": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_980": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_981": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_982": {
+    "entit\u00e9": "IX \nJeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_983": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_984": {
+    "entit\u00e9": "marquis de Coutelier",
+    "label": "PER"
+  },
+  "Entit\u00e9_985": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_986": {
+    "entit\u00e9": "Louis XIII",
+    "label": "PER"
+  },
+  "Entit\u00e9_987": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_988": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_989": {
+    "entit\u00e9": "Regarde",
+    "label": "PER"
+  },
+  "Entit\u00e9_990": {
+    "entit\u00e9": "hein",
+    "label": "MISC"
+  },
+  "Entit\u00e9_991": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_992": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_993": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_994": {
+    "entit\u00e9": "Tr\u00e9buche",
+    "label": "PER"
+  },
+  "Entit\u00e9_995": {
+    "entit\u00e9": "Amazone",
+    "label": "PER"
+  },
+  "Entit\u00e9_996": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_997": {
+    "entit\u00e9": "Mad\u00e8re",
+    "label": "LOC"
+  },
+  "Entit\u00e9_998": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_999": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1000": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1001": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1002": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1003": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1004": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1005": {
+    "entit\u00e9": "Inqui\u00e8te",
+    "label": "PER"
+  },
+  "Entit\u00e9_1006": {
+    "entit\u00e9": "Es-tu malade",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1007": {
+    "entit\u00e9": "Qu'as-tu donc ?",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1008": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1009": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1010": {
+    "entit\u00e9": "M. de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1011": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1012": {
+    "entit\u00e9": "M. de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1013": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1014": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1015": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1016": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1017": {
+    "entit\u00e9": "Huit jours",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1018": {
+    "entit\u00e9": "Coutelier",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1019": {
+    "entit\u00e9": "Reminil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1020": {
+    "entit\u00e9": "Cany",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1021": {
+    "entit\u00e9": "Louis XIV",
+    "label": "PER"
+  },
+  "Entit\u00e9_1022": {
+    "entit\u00e9": "S\u00e8vres",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1023": {
+    "entit\u00e9": "marquis L\u00e9opold-Herv\u00e9-Joseph-Germer",
+    "label": "PER"
+  },
+  "Entit\u00e9_1024": {
+    "entit\u00e9": "Rollebosc de Coutelier",
+    "label": "PER"
+  },
+  "Entit\u00e9_1025": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1026": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1027": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1028": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1029": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1030": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1031": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1032": {
+    "entit\u00e9": "D\u00e9cembre",
+    "label": "PER"
+  },
+  "Entit\u00e9_1033": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1034": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1035": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1036": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1037": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1038": {
+    "entit\u00e9": "Mars",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1039": {
+    "entit\u00e9": "Gilberte",
+    "label": "PER"
+  },
+  "Entit\u00e9_1040": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1041": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1042": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1043": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1044": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1045": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1046": {
+    "entit\u00e9": "Prenez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1047": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1048": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1049": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1050": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1051": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1052": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1053": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1054": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1055": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1056": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1057": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1058": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1059": {
+    "entit\u00e9": "le soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1060": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1061": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1062": {
+    "entit\u00e9": "\u00c9tretat",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1063": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1064": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_1065": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1066": {
+    "entit\u00e9": "\u00c9tretat",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1067": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1068": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1069": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1070": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1071": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1072": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1073": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1074": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1075": {
+    "entit\u00e9": "Sit\u00f4t",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1076": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1077": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1078": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1079": {
+    "entit\u00e9": "Martin",
+    "label": "PER"
+  },
+  "Entit\u00e9_1080": {
+    "entit\u00e9": "Crotte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1081": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1082": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1083": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1084": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1085": {
+    "entit\u00e9": "La Fontaine",
+    "label": "PER"
+  },
+  "Entit\u00e9_1086": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1087": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1088": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1089": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1090": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1091": {
+    "entit\u00e9": "Arr\u00eatons",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1092": {
+    "entit\u00e9": "Corinne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1093": {
+    "entit\u00e9": "M\u00e9ditations de Lamartine",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1094": {
+    "entit\u00e9": "Quelquefois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1095": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1096": {
+    "entit\u00e9": "Qu'as-tu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1097": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1098": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1099": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1100": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1101": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1102": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1103": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1104": {
+    "entit\u00e9": "Tant\u00f4t",
+    "label": "PER"
+  },
+  "Entit\u00e9_1105": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_1106": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1107": {
+    "entit\u00e9": "Mme la Baronne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1108": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1109": {
+    "entit\u00e9": "Cologne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1110": {
+    "entit\u00e9": "Joseph Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1111": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_1112": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_1113": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1114": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1115": {
+    "entit\u00e9": "Dentu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1116": {
+    "entit\u00e9": "Joseph Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1117": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1118": {
+    "entit\u00e9": "Tomb\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_1119": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1120": {
+    "entit\u00e9": "croyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1121": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1122": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1123": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1124": {
+    "entit\u00e9": "Dentu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1125": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1126": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1127": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1128": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1129": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1130": {
+    "entit\u00e9": "Dominus",
+    "label": "PER"
+  },
+  "Entit\u00e9_1131": {
+    "entit\u00e9": "Vas-tu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1132": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1133": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1134": {
+    "entit\u00e9": "Dentu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1135": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1136": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1137": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1138": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1139": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1140": {
+    "entit\u00e9": "Dentu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1141": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1142": {
+    "entit\u00e9": "lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1143": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1144": {
+    "entit\u00e9": "maman",
+    "label": "PER"
+  },
+  "Entit\u00e9_1145": {
+    "entit\u00e9": "madame Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_1146": {
+    "entit\u00e9": "Bonjour Jeannette",
+    "label": "PER"
+  },
+  "Entit\u00e9_1147": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1148": {
+    "entit\u00e9": "mer l\u00e0-bas",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1149": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1150": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1151": {
+    "entit\u00e9": "tic-tac l\u00e9ger",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1152": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1153": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1154": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1155": {
+    "entit\u00e9": "\u00c9vapor\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1156": {
+    "entit\u00e9": "Rappel\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_1157": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1158": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1159": {
+    "entit\u00e9": "Ma belle petite-fille",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1160": {
+    "entit\u00e9": "Ma ch\u00e8re petite \u00bb",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1161": {
+    "entit\u00e9": "Ma mignonne",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1162": {
+    "entit\u00e9": "Ma fille ador\u00e9e",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1163": {
+    "entit\u00e9": "Ma ch\u00e8re enfant \u00bb",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1164": {
+    "entit\u00e9": "Ad\u00e9la\u00efde",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1165": {
+    "entit\u00e9": "P\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_1166": {
+    "entit\u00e9": "Hortense",
+    "label": "PER"
+  },
+  "Entit\u00e9_1167": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1168": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1169": {
+    "entit\u00e9": "Le Perthuis des Vauds",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1170": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1171": {
+    "entit\u00e9": "Paul d'Ennemare",
+    "label": "PER"
+  },
+  "Entit\u00e9_1172": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1173": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1174": {
+    "entit\u00e9": "Oh ! ma pauvre maman",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1175": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1176": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1177": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1178": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1179": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1180": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1181": {
+    "entit\u00e9": "Coutelier",
+    "label": "PER"
+  },
+  "Entit\u00e9_1182": {
+    "entit\u00e9": "Briseville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1183": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1184": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1185": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_1186": {
+    "entit\u00e9": "comtesse Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1187": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1188": {
+    "entit\u00e9": "comte de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1189": {
+    "entit\u00e9": "X",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1190": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1191": {
+    "entit\u00e9": "P\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_1192": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1193": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1194": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1195": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1196": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1197": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1198": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1199": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1200": {
+    "entit\u00e9": "Tenez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1201": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_1202": {
+    "entit\u00e9": "Accoutum\u00e9",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1203": {
+    "entit\u00e9": "campagnard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1204": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1205": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1206": {
+    "entit\u00e9": "Vous \u00eates mari\u00e9e",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1207": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1208": {
+    "entit\u00e9": "M. Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1209": {
+    "entit\u00e9": "Huit jours",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1210": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1211": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1212": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1213": {
+    "entit\u00e9": "Le soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1214": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1215": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1216": {
+    "entit\u00e9": "Surpris",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1217": {
+    "entit\u00e9": "Parbleu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1218": {
+    "entit\u00e9": "Hein",
+    "label": "PER"
+  },
+  "Entit\u00e9_1219": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1220": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1221": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1222": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1223": {
+    "entit\u00e9": "R\u00e9solue",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1224": {
+    "entit\u00e9": "Annoncez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1225": {
+    "entit\u00e9": "\u00c9glise",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1226": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1227": {
+    "entit\u00e9": "Bah !",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1228": {
+    "entit\u00e9": "comtesse Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1229": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1230": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1231": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1232": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1233": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1234": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1235": {
+    "entit\u00e9": "\u00c9touvent sans la bedaine",
+    "label": "PER"
+  },
+  "Entit\u00e9_1236": {
+    "entit\u00e9": "abb\u00e9 Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1237": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1238": {
+    "entit\u00e9": "madame la comtesse",
+    "label": "PER"
+  },
+  "Entit\u00e9_1239": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1240": {
+    "entit\u00e9": "Notre-Dame du Gros-Ventre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1241": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1242": {
+    "entit\u00e9": "Voyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1243": {
+    "entit\u00e9": "voyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1244": {
+    "entit\u00e9": "Mariez-les",
+    "label": "PER"
+  },
+  "Entit\u00e9_1245": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1246": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1247": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1248": {
+    "entit\u00e9": "Vous et moi",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1249": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1250": {
+    "entit\u00e9": "Picot",
+    "label": "PER"
+  },
+  "Entit\u00e9_1251": {
+    "entit\u00e9": "Mystique",
+    "label": "PER"
+  },
+  "Entit\u00e9_1252": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1253": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1254": {
+    "entit\u00e9": "ministre du Ciel",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1255": {
+    "entit\u00e9": "Christ",
+    "label": "PER"
+  },
+  "Entit\u00e9_1256": {
+    "entit\u00e9": "lune",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1257": {
+    "entit\u00e9": "Voulez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1258": {
+    "entit\u00e9": "Christ",
+    "label": "PER"
+  },
+  "Entit\u00e9_1259": {
+    "entit\u00e9": "Ap\u00f4tres",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1260": {
+    "entit\u00e9": "Vierge",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1261": {
+    "entit\u00e9": "P\u00e8res de l'\u00c9glise",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1262": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1263": {
+    "entit\u00e9": "Fourville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1264": {
+    "entit\u00e9": "vieilli",
+    "label": "PER"
+  },
+  "Entit\u00e9_1265": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1266": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1267": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1268": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1269": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1270": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1271": {
+    "entit\u00e9": "\u00catre Universel",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1272": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1273": {
+    "entit\u00e9": "le Seigneur",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1274": {
+    "entit\u00e9": "Anti-physiques",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1275": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1276": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1277": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1278": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1279": {
+    "entit\u00e9": "madame la comtesse",
+    "label": "PER"
+  },
+  "Entit\u00e9_1280": {
+    "entit\u00e9": "Mme de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1281": {
+    "entit\u00e9": "\u00cates",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1282": {
+    "entit\u00e9": "Fuyez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1283": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1284": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1285": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1286": {
+    "entit\u00e9": "Ouvrez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1287": {
+    "entit\u00e9": "M. de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1288": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1289": {
+    "entit\u00e9": "Restez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1290": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1291": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1292": {
+    "entit\u00e9": "chienne Mirza",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1293": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1294": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1295": {
+    "entit\u00e9": "Encha\u00een\u00e9e",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1296": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1297": {
+    "entit\u00e9": "Couillard",
+    "label": "PER"
+  },
+  "Entit\u00e9_1298": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1299": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_1300": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1301": {
+    "entit\u00e9": "Toto",
+    "label": "PER"
+  },
+  "Entit\u00e9_1302": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1303": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1304": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1305": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1306": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1307": {
+    "entit\u00e9": "Gilberte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1308": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1309": {
+    "entit\u00e9": "Vaucotte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1310": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1311": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1312": {
+    "entit\u00e9": "Vrillette",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1313": {
+    "entit\u00e9": "\u00c9touvent",
+    "label": "PER"
+  },
+  "Entit\u00e9_1314": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1315": {
+    "entit\u00e9": "comte de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1316": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1317": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1318": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1319": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1320": {
+    "entit\u00e9": "L\u00e0-bas",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1321": {
+    "entit\u00e9": "val de Vaucotte",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1322": {
+    "entit\u00e9": "Qu\u00e9",
+    "label": "PER"
+  },
+  "Entit\u00e9_1323": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1324": {
+    "entit\u00e9": "Guettez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1325": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1326": {
+    "entit\u00e9": "M. de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1327": {
+    "entit\u00e9": "M. de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1328": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1329": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1330": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1331": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1332": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1333": {
+    "entit\u00e9": "XI",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1334": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1335": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1336": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1337": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1338": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1339": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1340": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1341": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1342": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1343": {
+    "entit\u00e9": "Paulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1344": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1345": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1346": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1347": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1348": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1349": {
+    "entit\u00e9": "Nourri",
+    "label": "PER"
+  },
+  "Entit\u00e9_1350": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_1351": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1352": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1353": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1354": {
+    "entit\u00e9": "Massacre coucha",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1355": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1356": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1357": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1358": {
+    "entit\u00e9": "Coutelier",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1359": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1360": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1361": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1362": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1363": {
+    "entit\u00e9": "Esprit du Mal",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1364": {
+    "entit\u00e9": "Esprit",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1365": {
+    "entit\u00e9": "\u00c9ternelle R\u00e9volte",
+    "label": "PER"
+  },
+  "Entit\u00e9_1366": {
+    "entit\u00e9": "Esprit d'Erreur",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1367": {
+    "entit\u00e9": "Mensonge",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1368": {
+    "entit\u00e9": "Esprit d'Iniquit\u00e9",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1369": {
+    "entit\u00e9": "Esprit de Corruption",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1370": {
+    "entit\u00e9": "Impuret\u00e9",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1371": {
+    "entit\u00e9": "Satan",
+    "label": "PER"
+  },
+  "Entit\u00e9_1372": {
+    "entit\u00e9": "Diable",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1373": {
+    "entit\u00e9": "Puissance",
+    "label": "PER"
+  },
+  "Entit\u00e9_1374": {
+    "entit\u00e9": "Malin Esprit",
+    "label": "PER"
+  },
+  "Entit\u00e9_1375": {
+    "entit\u00e9": "Sicut",
+    "label": "PER"
+  },
+  "Entit\u00e9_1376": {
+    "entit\u00e9": "Belz\u00e9buth",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1377": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1378": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1379": {
+    "entit\u00e9": "Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_1380": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1381": {
+    "entit\u00e9": "bon Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1382": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1383": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1384": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1385": {
+    "entit\u00e9": "Le bon Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1386": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1387": {
+    "entit\u00e9": "Lise",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1388": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1389": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1390": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1391": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1392": {
+    "entit\u00e9": "Lise",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1393": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1394": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1395": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1396": {
+    "entit\u00e9": "jura",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1397": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1398": {
+    "entit\u00e9": "Briseville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1399": {
+    "entit\u00e9": "Coutelier",
+    "label": "PER"
+  },
+  "Entit\u00e9_1400": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1401": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1402": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1403": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1404": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1405": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1406": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1407": {
+    "entit\u00e9": "\u00c9glise",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1408": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1409": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1410": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1411": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1412": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1413": {
+    "entit\u00e9": "P\u00e2ques",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1414": {
+    "entit\u00e9": "\u00c9glise",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1415": {
+    "entit\u00e9": "Religion",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1416": {
+    "entit\u00e9": "Religion",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1417": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1418": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1419": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1420": {
+    "entit\u00e9": "Laitues",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1421": {
+    "entit\u00e9": "Romaines",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1422": {
+    "entit\u00e9": "Chicor\u00e9es",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1423": {
+    "entit\u00e9": "Barbes-de-capucin",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1424": {
+    "entit\u00e9": "Royales",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1425": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1426": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1427": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_1428": {
+    "entit\u00e9": "Dis",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1429": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1430": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1431": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1432": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1433": {
+    "entit\u00e9": "larmoyer",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1434": {
+    "entit\u00e9": "coll\u00e8ge du Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1435": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1436": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1437": {
+    "entit\u00e9": "La m\u00e8re",
+    "label": "PER"
+  },
+  "Entit\u00e9_1438": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1439": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1440": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1441": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_1442": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1443": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1444": {
+    "entit\u00e9": "Le Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1445": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1446": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1447": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1448": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1449": {
+    "entit\u00e9": "haut de la falaise",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1450": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1451": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1452": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1453": {
+    "entit\u00e9": "Peuples",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1454": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1455": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1456": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1457": {
+    "entit\u00e9": "Bravo",
+    "label": "PER"
+  },
+  "Entit\u00e9_1458": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1459": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1460": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1461": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1462": {
+    "entit\u00e9": "Le Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1463": {
+    "entit\u00e9": "Sais-tu",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1464": {
+    "entit\u00e9": "maman",
+    "label": "PER"
+  },
+  "Entit\u00e9_1465": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1466": {
+    "entit\u00e9": "Nouveau Monde",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1467": {
+    "entit\u00e9": "Oh ! Poulet",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1468": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1469": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1470": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1471": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1472": {
+    "entit\u00e9": "Allemagne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1473": {
+    "entit\u00e9": "Ch\u00e9",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1474": {
+    "entit\u00e9": "Juif",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1475": {
+    "entit\u00e9": "Juif",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1476": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1477": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1478": {
+    "entit\u00e9": "Voulez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1479": {
+    "entit\u00e9": "Le Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1480": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1481": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1482": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1483": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1484": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1485": {
+    "entit\u00e9": "Yport",
+    "label": "PER"
+  },
+  "Entit\u00e9_1486": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1487": {
+    "entit\u00e9": "au Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1488": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1489": {
+    "entit\u00e9": "Yport",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1490": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1491": {
+    "entit\u00e9": "au Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1492": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1493": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1494": {
+    "entit\u00e9": "Angleterre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1495": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1496": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1497": {
+    "entit\u00e9": "Madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1498": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1499": {
+    "entit\u00e9": "Ciel",
+    "label": "PER"
+  },
+  "Entit\u00e9_1500": {
+    "entit\u00e9": "mis\u00e9ricorde du Seigneur",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1501": {
+    "entit\u00e9": "Lui",
+    "label": "PER"
+  },
+  "Entit\u00e9_1502": {
+    "entit\u00e9": "Dieu",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1503": {
+    "entit\u00e9": "Divine Mansu\u00e9tude",
+    "label": "PER"
+  },
+  "Entit\u00e9_1504": {
+    "entit\u00e9": "Ma ch\u00e8re maman",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1505": {
+    "entit\u00e9": "Londres",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1506": {
+    "entit\u00e9": "Adieu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1507": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1508": {
+    "entit\u00e9": "Vicomte Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1509": {
+    "entit\u00e9": "LAMARE",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1510": {
+    "entit\u00e9": "Tante Lison",
+    "label": "PER"
+  },
+  "Entit\u00e9_1511": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1512": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1513": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1514": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1515": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1516": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1517": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1518": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1519": {
+    "entit\u00e9": "Bourse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1520": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1521": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1522": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1523": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1524": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1525": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1526": {
+    "entit\u00e9": "Providence",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1527": {
+    "entit\u00e9": "Adieu",
+    "label": "PER"
+  },
+  "Entit\u00e9_1528": {
+    "entit\u00e9": "PAUL",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1529": {
+    "entit\u00e9": "Le Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1530": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1531": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1532": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1533": {
+    "entit\u00e9": "Londres",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1534": {
+    "entit\u00e9": "Paul Delamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_1535": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1536": {
+    "entit\u00e9": "au Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1537": {
+    "entit\u00e9": "Delamare",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1538": {
+    "entit\u00e9": "ch\u00e2teau des Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1539": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1540": {
+    "entit\u00e9": "Peuples",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1541": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1542": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1543": {
+    "entit\u00e9": "Angleterre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1544": {
+    "entit\u00e9": "France",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1545": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1546": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1547": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1548": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1549": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1550": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1551": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1552": {
+    "entit\u00e9": "Voulez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1553": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1554": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1555": {
+    "entit\u00e9": "mam'zelle Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1556": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1557": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1558": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1559": {
+    "entit\u00e9": "Allons",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1560": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1561": {
+    "entit\u00e9": "\u00ab Pardi",
+    "label": "PER"
+  },
+  "Entit\u00e9_1562": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1563": {
+    "entit\u00e9": "Allume",
+    "label": "PER"
+  },
+  "Entit\u00e9_1564": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1565": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1566": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1567": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1568": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1569": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1570": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1571": {
+    "entit\u00e9": "Non",
+    "label": "PER"
+  },
+  "Entit\u00e9_1572": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_1573": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1574": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1575": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1576": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1577": {
+    "entit\u00e9": "Ton",
+    "label": "PER"
+  },
+  "Entit\u00e9_1578": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1579": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1580": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1581": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_1582": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1583": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1584": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1585": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1586": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1587": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1588": {
+    "entit\u00e9": "Savez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1589": {
+    "entit\u00e9": "Savez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1590": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1591": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1592": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1593": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1594": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1595": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1596": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1597": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1598": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1599": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1600": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1601": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1602": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1603": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1604": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_1605": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1606": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1607": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1608": {
+    "entit\u00e9": "Peuples !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1609": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1610": {
+    "entit\u00e9": "Vendre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1611": {
+    "entit\u00e9": "Peuples !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1612": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1613": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1614": {
+    "entit\u00e9": "Peuples",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1615": {
+    "entit\u00e9": "Saint-L\u00e9onard",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1616": {
+    "entit\u00e9": "M. Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1617": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1618": {
+    "entit\u00e9": "Croyez",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1619": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1620": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1621": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1622": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1623": {
+    "entit\u00e9": "Faut",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1624": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1625": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1626": {
+    "entit\u00e9": "\u00c9perdue",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1627": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1628": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1629": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1630": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1631": {
+    "entit\u00e9": "JEANNE",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1632": {
+    "entit\u00e9": "M. Jeoffrin",
+    "label": "PER"
+  },
+  "Entit\u00e9_1633": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1634": {
+    "entit\u00e9": "Montivilliers",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1635": {
+    "entit\u00e9": "Batteville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1636": {
+    "entit\u00e9": "comte de Fourville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1637": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1638": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1639": {
+    "entit\u00e9": "Bonjour",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1640": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1641": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1642": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1643": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1644": {
+    "entit\u00e9": "cigogne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1645": {
+    "entit\u00e9": "Tiens",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1646": {
+    "entit\u00e9": "Chine",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1647": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1648": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1649": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1650": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1651": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1652": {
+    "entit\u00e9": "Denis Lecoq",
+    "label": "PER"
+  },
+  "Entit\u00e9_1653": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1654": {
+    "entit\u00e9": "Rest\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_1655": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1656": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1657": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1658": {
+    "entit\u00e9": "Folle",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1659": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1660": {
+    "entit\u00e9": "Aveugle",
+    "label": "PER"
+  },
+  "Entit\u00e9_1661": {
+    "entit\u00e9": "Lucienne",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1662": {
+    "entit\u00e9": "Gros",
+    "label": "PER"
+  },
+  "Entit\u00e9_1663": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1664": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1665": {
+    "entit\u00e9": "Simon",
+    "label": "PER"
+  },
+  "Entit\u00e9_1666": {
+    "entit\u00e9": "Ludivine",
+    "label": "PER"
+  },
+  "Entit\u00e9_1667": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1668": {
+    "entit\u00e9": "Marius",
+    "label": "PER"
+  },
+  "Entit\u00e9_1669": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1670": {
+    "entit\u00e9": "Allons !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1671": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1672": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1673": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1674": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1675": {
+    "entit\u00e9": "Denis",
+    "label": "PER"
+  },
+  "Entit\u00e9_1676": {
+    "entit\u00e9": "Tolbiac",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1677": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1678": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1679": {
+    "entit\u00e9": "Manant",
+    "label": "PER"
+  },
+  "Entit\u00e9_1680": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1681": {
+    "entit\u00e9": "Jeanne soudain",
+    "label": "PER"
+  },
+  "Entit\u00e9_1682": {
+    "entit\u00e9": "Denis",
+    "label": "PER"
+  },
+  "Entit\u00e9_1683": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1684": {
+    "entit\u00e9": "XIII",
+    "label": "PER"
+  },
+  "Entit\u00e9_1685": {
+    "entit\u00e9": "pays de Caux",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1686": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1687": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1688": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1689": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1690": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1691": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1692": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1693": {
+    "entit\u00e9": "F\u00e9camp",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1694": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1695": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1696": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1697": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1698": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1699": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1700": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1701": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1702": {
+    "entit\u00e9": "Batteville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1703": {
+    "entit\u00e9": "Verneuil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1704": {
+    "entit\u00e9": "Trois-Mares",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1705": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1706": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1707": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1708": {
+    "entit\u00e9": "Assoupi",
+    "label": "PER"
+  },
+  "Entit\u00e9_1709": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1710": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1711": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1712": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1713": {
+    "entit\u00e9": "Mme Ad\u00e9la\u00efde",
+    "label": "PER"
+  },
+  "Entit\u00e9_1714": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1715": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1716": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1717": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1718": {
+    "entit\u00e9": "JEANNE",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1719": {
+    "entit\u00e9": "Ma ch\u00e8re maman",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1720": {
+    "entit\u00e9": "Vicomte PAUL",
+    "label": "PER"
+  },
+  "Entit\u00e9_1721": {
+    "entit\u00e9": "LAMARE",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1722": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1723": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1724": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1725": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1726": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1727": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1728": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1729": {
+    "entit\u00e9": "\u00c7a",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1730": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1731": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1732": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1733": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1734": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1735": {
+    "entit\u00e9": "Roussel",
+    "label": "PER"
+  },
+  "Entit\u00e9_1736": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1737": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1738": {
+    "entit\u00e9": "h\u00f4tel de Normandie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1739": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1740": {
+    "entit\u00e9": "Le Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1741": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1742": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1743": {
+    "entit\u00e9": "Malandain",
+    "label": "PER"
+  },
+  "Entit\u00e9_1744": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1745": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1746": {
+    "entit\u00e9": "Rosalie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1747": {
+    "entit\u00e9": "Si",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1748": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1749": {
+    "entit\u00e9": "Denis Lecoq",
+    "label": "PER"
+  },
+  "Entit\u00e9_1750": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1751": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1752": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1753": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1754": {
+    "entit\u00e9": "Un coup de sifflet",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1755": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1756": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1757": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1758": {
+    "entit\u00e9": "M. Roussel",
+    "label": "PER"
+  },
+  "Entit\u00e9_1759": {
+    "entit\u00e9": "M. Roussel",
+    "label": "PER"
+  },
+  "Entit\u00e9_1760": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1761": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1762": {
+    "entit\u00e9": "Oui",
+    "label": "PER"
+  },
+  "Entit\u00e9_1763": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1764": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1765": {
+    "entit\u00e9": "souffla",
+    "label": "PER"
+  },
+  "Entit\u00e9_1766": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1767": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1768": {
+    "entit\u00e9": "rue du Sauvage",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1769": {
+    "entit\u00e9": "Cit\u00e9",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1770": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1771": {
+    "entit\u00e9": "Affol\u00e9e",
+    "label": "PER"
+  },
+  "Entit\u00e9_1772": {
+    "entit\u00e9": "la Seine",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1773": {
+    "entit\u00e9": "rue du Sauvage",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1774": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1775": {
+    "entit\u00e9": "M.",
+    "label": "PER"
+  },
+  "Entit\u00e9_1776": {
+    "entit\u00e9": "Paul de Lamare",
+    "label": "PER"
+  },
+  "Entit\u00e9_1777": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1778": {
+    "entit\u00e9": "Ah !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1779": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1780": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1781": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1782": {
+    "entit\u00e9": "\u00c9coutez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1783": {
+    "entit\u00e9": "h\u00f4tel de Normandie",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1784": {
+    "entit\u00e9": "rue du Havre",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1785": {
+    "entit\u00e9": "Palais-Royal",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1786": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1787": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1788": {
+    "entit\u00e9": "Jardin",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1789": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1790": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1791": {
+    "entit\u00e9": "M. Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1792": {
+    "entit\u00e9": "Entrez",
+    "label": "PER"
+  },
+  "Entit\u00e9_1793": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1794": {
+    "entit\u00e9": "rue du Sauvage",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1795": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1796": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1797": {
+    "entit\u00e9": "Madame Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1798": {
+    "entit\u00e9": "M. Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1799": {
+    "entit\u00e9": "ROSALIE",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1800": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1801": {
+    "entit\u00e9": "Batteville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1802": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1803": {
+    "entit\u00e9": "Allons",
+    "label": "PER"
+  },
+  "Entit\u00e9_1804": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1805": {
+    "entit\u00e9": "Corse",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1806": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1807": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1808": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1809": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1810": {
+    "entit\u00e9": "P",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1811": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1812": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1813": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1814": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1815": {
+    "entit\u00e9": "Oriental",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1816": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1817": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1818": {
+    "entit\u00e9": "Songe",
+    "label": "PER"
+  },
+  "Entit\u00e9_1819": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1820": {
+    "entit\u00e9": "Am\u00e9rique",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1821": {
+    "entit\u00e9": "L'Am\u00e9rique",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1822": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1823": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1824": {
+    "entit\u00e9": "Rouen",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1825": {
+    "entit\u00e9": "Peuples",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1826": {
+    "entit\u00e9": "Autrefois",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1827": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1828": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1829": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1830": {
+    "entit\u00e9": "Massacre",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1831": {
+    "entit\u00e9": "Denis",
+    "label": "PER"
+  },
+  "Entit\u00e9_1832": {
+    "entit\u00e9": "Peuples",
+    "label": "PER"
+  },
+  "Entit\u00e9_1833": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1834": {
+    "entit\u00e9": "\u00c9touvent",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1835": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1836": {
+    "entit\u00e9": "Oh !",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1837": {
+    "entit\u00e9": "Couillard",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1838": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1839": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1840": {
+    "entit\u00e9": "Julien",
+    "label": "PER"
+  },
+  "Entit\u00e9_1841": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1842": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1843": {
+    "entit\u00e9": "Poulet",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1844": {
+    "entit\u00e9": "Lison",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1845": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1846": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1847": {
+    "entit\u00e9": "Madame Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1848": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1849": {
+    "entit\u00e9": "Batteville",
+    "label": "PER"
+  },
+  "Entit\u00e9_1850": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1851": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1852": {
+    "entit\u00e9": "R\u00e9ponds",
+    "label": "PER"
+  },
+  "Entit\u00e9_1853": {
+    "entit\u00e9": "PAUL",
+    "label": "ORG"
+  },
+  "Entit\u00e9_1854": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1855": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1856": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1857": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1858": {
+    "entit\u00e9": "Mettez",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1859": {
+    "entit\u00e9": "madame",
+    "label": "PER"
+  },
+  "Entit\u00e9_1860": {
+    "entit\u00e9": "Goderville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1861": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1862": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1863": {
+    "entit\u00e9": "Paris",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1864": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1865": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1866": {
+    "entit\u00e9": "gare de Beuzeville",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1867": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1868": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1869": {
+    "entit\u00e9": "Bonjour",
+    "label": "MISC"
+  },
+  "Entit\u00e9_1870": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1871": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1872": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1873": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1874": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1875": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1876": {
+    "entit\u00e9": "Paul",
+    "label": "PER"
+  },
+  "Entit\u00e9_1877": {
+    "entit\u00e9": "Le soleil",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1878": {
+    "entit\u00e9": "colzas",
+    "label": "LOC"
+  },
+  "Entit\u00e9_1879": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1880": {
+    "entit\u00e9": "Jeanne",
+    "label": "PER"
+  },
+  "Entit\u00e9_1881": {
+    "entit\u00e9": "Rosalie",
+    "label": "PER"
+  },
+  "Entit\u00e9_1882": {
+    "entit\u00e9": "Voyons",
+    "label": "PER"
+  },
+  "Entit\u00e9_1883": {
+    "entit\u00e9": "madame Jeanne",
+    "label": "PER"
+  }
+}

@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+dist/
+build/
+*.egg-info/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.iso
+*.mp4
+*.mkv
+*.pt
+*.bin
+
+# Artefacts lourds ignorés pour GitHub
+TD3_S6_full_upgrade/results/*.json
+PROJET_v1/pipeline_results/*.json

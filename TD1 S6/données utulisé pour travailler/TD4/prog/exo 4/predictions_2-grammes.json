@@ -1,0 +1,4706 @@
+{
+  "..\\..\\corpus_multi\\cs\\test\\2009-01-09_celex_IP-09-26.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-01-13_celex_IP-09-45.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-01-28_celex_IP-09-141.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-01-28_celex_IP-09-142.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-02-10_celex_IP-09-232.cs.html": {
+    "prediction": "nl",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-02-10_celex_IP-09-238.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-02-20_celex_IP-09-300.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-02-23_celex_IP-09-303.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-03-05_celex_IP-09-354.cs.html": {
+    "prediction": "nl",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-03-06_celex_IP-09-362.cs.html": {
+    "prediction": "it",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-03-31_celex_IP-09-506.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-03-31_celex_IP-09-510.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-08_celex_IP-09-554.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-08_celex_IP-09-560.cs.html": {
+    "prediction": "fr",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-22_celex_IP-09-620.cs.html": {
+    "prediction": "de",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-23_celex_IP-09-625.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-29_celex_IP-09-666.cs.html": {
+    "prediction": "de",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-04-29_celex_IP-09-673.cs.html": {
+    "prediction": "fr",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-05-07_celex_IP-09-718.cs.html": {
+    "prediction": "cs",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-05-08_celex_IP-09-723.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-05-28_celex_IP-09-845.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-05-29_celex_IP-09-851.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-06-17_celex_IP-09-941.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-06-18_celex_IP-09-948.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-06-26_celex_IP-09-1044.cs.html": {
+    "prediction": "pl",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-06-29_celex_IP-09-1049.cs.html": {
+    "prediction": "cs",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-08_celex_IP-09-1096.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-08_celex_IP-09-1098.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-20_celex_IP-09-1165.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-22_celex_IP-09-1166.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-30_celex_IP-09-1204.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-07-31_celex_IP-09-1214.cs.html": {
+    "prediction": "cs",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-09-09_celex_IP-09-1292.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-09-11_celex_IP-09-1305.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-09-23_celex_IP-09-1347.cs.html": {
+    "prediction": "cs",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-09-23_celex_IP-09-1349.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-02_celex_IP-09-1401.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-05_celex_IP-09-1420.cs.html": {
+    "prediction": "cs",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-14_celex_IP-09-1508.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-14_celex_IP-09-1516.cs.html": {
+    "prediction": "pt",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-19_celex_IP-09-1540.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-19_celex_IP-09-1544.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-22_celex_IP-09-1573.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-23_celex_IP-09-1574.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-29_celex_IP-09-1626.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-10-29_celex_IP-09-1646.cs.html": {
+    "prediction": "en",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-11_celex_IP-09-1696.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-11_celex_IP-09-1697.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-19_celex_IP-09-1740.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-20_celex_IP-09-1779.cs.html": {
+    "prediction": "da",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-25_celex_IP-09-1816.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-11-26_celex_IP-09-1824.cs.html": {
+    "prediction": "nl",
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-12-07_celex_IP-09-1883.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-12-07_celex_IP-09-1884.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-12-21_celex_IP-09-1988.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\cs\\test\\2009-12-31_celex_IP-09-2002.cs.html": {
+    "prediction": null,
+    "reference": "cs"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-01-09_celex_IP-09-26.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-01-13_celex_IP-09-45.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-01-28_celex_IP-09-141.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-01-28_celex_IP-09-142.da.html": {
+    "prediction": "nl",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-02-10_celex_IP-09-232.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-02-10_celex_IP-09-238.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-02-20_celex_IP-09-300.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-02-23_celex_IP-09-303.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-03-05_celex_IP-09-354.da.html": {
+    "prediction": "nl",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-03-06_celex_IP-09-362.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-03-31_celex_IP-09-506.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-03-31_celex_IP-09-510.da.html": {
+    "prediction": "fr",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-08_celex_IP-09-554.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-08_celex_IP-09-560.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-22_celex_IP-09-620.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-23_celex_IP-09-625.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-29_celex_IP-09-666.da.html": {
+    "prediction": "nl",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-04-29_celex_IP-09-673.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-05-07_celex_IP-09-718.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-05-08_celex_IP-09-723.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-05-28_celex_IP-09-845.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-05-29_celex_IP-09-851.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-06-17_celex_IP-09-941.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-06-18_celex_IP-09-948.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-06-26_celex_IP-09-1044.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-06-29_celex_IP-09-1049.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-08_celex_IP-09-1096.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-08_celex_IP-09-1098.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-20_celex_IP-09-1165.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-22_celex_IP-09-1166.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-30_celex_IP-09-1204.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-07-31_celex_IP-09-1214.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-09-09_celex_IP-09-1292.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-09-11_celex_IP-09-1305.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-09-23_celex_IP-09-1347.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-09-23_celex_IP-09-1349.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-02_celex_IP-09-1401.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-05_celex_IP-09-1420.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-14_celex_IP-09-1508.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-14_celex_IP-09-1516.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-19_celex_IP-09-1540.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-19_celex_IP-09-1544.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-22_celex_IP-09-1573.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-23_celex_IP-09-1574.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-29_celex_IP-09-1626.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-10-29_celex_IP-09-1646.da.html": {
+    "prediction": "en",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-11_celex_IP-09-1696.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-11_celex_IP-09-1697.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-19_celex_IP-09-1740.da.html": {
+    "prediction": "nl",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-20_celex_IP-09-1779.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-25_celex_IP-09-1816.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-11-26_celex_IP-09-1824.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-12-07_celex_IP-09-1883.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-12-07_celex_IP-09-1884.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-12-21_celex_IP-09-1988.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\da\\test\\2009-12-31_celex_IP-09-2002.da.html": {
+    "prediction": "da",
+    "reference": "da"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-01-09_celex_IP-09-26.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-01-13_celex_IP-09-45.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-01-28_celex_IP-09-141.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-01-28_celex_IP-09-142.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-02-10_celex_IP-09-232.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-02-10_celex_IP-09-238.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-02-20_celex_IP-09-300.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-02-23_celex_IP-09-303.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-03-05_celex_IP-09-354.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-03-06_celex_IP-09-362.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-03-31_celex_IP-09-506.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-03-31_celex_IP-09-510.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-08_celex_IP-09-554.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-08_celex_IP-09-560.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-22_celex_IP-09-620.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-23_celex_IP-09-625.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-29_celex_IP-09-666.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-04-29_celex_IP-09-673.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-05-07_celex_IP-09-718.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-05-08_celex_IP-09-723.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-05-28_celex_IP-09-845.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-05-29_celex_IP-09-851.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-06-17_celex_IP-09-941.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-06-18_celex_IP-09-948.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-06-26_celex_IP-09-1044.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-06-29_celex_IP-09-1049.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-08_celex_IP-09-1096.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-08_celex_IP-09-1098.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-20_celex_IP-09-1165.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-22_celex_IP-09-1166.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-30_celex_IP-09-1204.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-07-31_celex_IP-09-1214.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-09-09_celex_IP-09-1292.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-09-11_celex_IP-09-1305.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-09-23_celex_IP-09-1347.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-09-23_celex_IP-09-1349.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-02_celex_IP-09-1401.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-05_celex_IP-09-1420.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-14_celex_IP-09-1508.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-14_celex_IP-09-1516.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-19_celex_IP-09-1540.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-19_celex_IP-09-1544.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-22_celex_IP-09-1573.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-23_celex_IP-09-1574.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-29_celex_IP-09-1626.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-10-29_celex_IP-09-1646.de.html": {
+    "prediction": "en",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-11_celex_IP-09-1696.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-11_celex_IP-09-1697.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-19_celex_IP-09-1740.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-20_celex_IP-09-1779.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-25_celex_IP-09-1816.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-11-26_celex_IP-09-1824.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-12-07_celex_IP-09-1883.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-12-07_celex_IP-09-1884.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-12-21_celex_IP-09-1988.de.html": {
+    "prediction": "nl",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\de\\test\\2009-12-31_celex_IP-09-2002.de.html": {
+    "prediction": "da",
+    "reference": "de"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-01-09_celex_IP-09-26.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-01-13_celex_IP-09-45.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-01-28_celex_IP-09-141.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-01-28_celex_IP-09-142.el.html": {
+    "prediction": "de",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-02-10_celex_IP-09-232.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-02-10_celex_IP-09-238.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-02-20_celex_IP-09-300.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-02-23_celex_IP-09-303.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-03-05_celex_IP-09-354.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-03-06_celex_IP-09-362.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-03-31_celex_IP-09-506.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-03-31_celex_IP-09-510.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-08_celex_IP-09-554.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-08_celex_IP-09-560.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-22_celex_IP-09-620.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-23_celex_IP-09-625.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-29_celex_IP-09-666.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-04-29_celex_IP-09-673.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-05-07_celex_IP-09-718.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-05-08_celex_IP-09-723.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-05-28_celex_IP-09-845.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-05-29_celex_IP-09-851.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-06-17_celex_IP-09-941.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-06-18_celex_IP-09-948.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-06-26_celex_IP-09-1044.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-06-29_celex_IP-09-1049.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-08_celex_IP-09-1096.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-08_celex_IP-09-1098.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-20_celex_IP-09-1165.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-22_celex_IP-09-1166.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-30_celex_IP-09-1204.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-07-31_celex_IP-09-1214.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-09-09_celex_IP-09-1292.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-09-11_celex_IP-09-1305.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-09-23_celex_IP-09-1347.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-09-23_celex_IP-09-1349.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-02_celex_IP-09-1401.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-05_celex_IP-09-1420.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-14_celex_IP-09-1508.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-14_celex_IP-09-1516.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-19_celex_IP-09-1540.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-19_celex_IP-09-1544.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-22_celex_IP-09-1573.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-23_celex_IP-09-1574.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-29_celex_IP-09-1626.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-10-29_celex_IP-09-1646.el.html": {
+    "prediction": "en",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-11_celex_IP-09-1696.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-11_celex_IP-09-1697.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-19_celex_IP-09-1740.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-20_celex_IP-09-1779.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-25_celex_IP-09-1816.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-11-26_celex_IP-09-1824.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-12-07_celex_IP-09-1883.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-12-07_celex_IP-09-1884.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-12-21_celex_IP-09-1988.el.html": {
+    "prediction": "el",
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\el\\test\\2009-12-31_celex_IP-09-2002.el.html": {
+    "prediction": null,
+    "reference": "el"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-01-09_celex_IP-09-26.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-01-13_celex_IP-09-45.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-01-28_celex_IP-09-141.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-01-28_celex_IP-09-142.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-02-10_celex_IP-09-232.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-02-10_celex_IP-09-238.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-02-20_celex_IP-09-300.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-02-23_celex_IP-09-303.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-03-05_celex_IP-09-354.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-03-06_celex_IP-09-362.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-03-31_celex_IP-09-506.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-03-31_celex_IP-09-510.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-08_celex_IP-09-554.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-08_celex_IP-09-560.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-22_celex_IP-09-620.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-23_celex_IP-09-625.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-29_celex_IP-09-666.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-04-29_celex_IP-09-673.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-05-07_celex_IP-09-718.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-05-08_celex_IP-09-723.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-05-28_celex_IP-09-845.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-05-29_celex_IP-09-851.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-06-17_celex_IP-09-941.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-06-18_celex_IP-09-948.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-06-26_celex_IP-09-1044.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-06-29_celex_IP-09-1049.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-08_celex_IP-09-1096.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-08_celex_IP-09-1098.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-20_celex_IP-09-1165.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-22_celex_IP-09-1166.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-30_celex_IP-09-1204.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-07-31_celex_IP-09-1214.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-09-09_celex_IP-09-1292.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-09-11_celex_IP-09-1305.en.html": {
+    "prediction": "nl",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-09-23_celex_IP-09-1347.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-09-23_celex_IP-09-1349.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-02_celex_IP-09-1401.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-05_celex_IP-09-1420.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-14_celex_IP-09-1508.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-14_celex_IP-09-1516.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-19_celex_IP-09-1540.en.html": {
+    "prediction": "nl",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-19_celex_IP-09-1544.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-22_celex_IP-09-1573.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-23_celex_IP-09-1574.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-29_celex_IP-09-1626.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-10-29_celex_IP-09-1646.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-11_celex_IP-09-1696.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-11_celex_IP-09-1697.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-19_celex_IP-09-1740.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-20_celex_IP-09-1779.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-25_celex_IP-09-1816.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-11-26_celex_IP-09-1824.en.html": {
+    "prediction": "en",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-12-07_celex_IP-09-1883.en.html": {
+    "prediction": "de",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-12-07_celex_IP-09-1884.en.html": {
+    "prediction": null,
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-12-21_celex_IP-09-1988.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\en\\test\\2009-12-31_celex_IP-09-2002.en.html": {
+    "prediction": "da",
+    "reference": "en"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-01-09_celex_IP-09-26.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-01-13_celex_IP-09-45.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-01-28_celex_IP-09-141.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-01-28_celex_IP-09-142.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-02-10_celex_IP-09-232.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-02-10_celex_IP-09-238.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-02-20_celex_IP-09-300.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-02-23_celex_IP-09-303.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-03-05_celex_IP-09-354.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-03-06_celex_IP-09-362.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-03-31_celex_IP-09-506.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-03-31_celex_IP-09-510.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-08_celex_IP-09-554.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-08_celex_IP-09-560.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-22_celex_IP-09-620.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-23_celex_IP-09-625.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-29_celex_IP-09-666.es.html": {
+    "prediction": "nl",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-04-29_celex_IP-09-673.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-05-07_celex_IP-09-718.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-05-08_celex_IP-09-723.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-05-28_celex_IP-09-845.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-05-29_celex_IP-09-851.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-06-17_celex_IP-09-941.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-06-18_celex_IP-09-948.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-06-26_celex_IP-09-1044.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-06-29_celex_IP-09-1049.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-08_celex_IP-09-1096.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-08_celex_IP-09-1098.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-20_celex_IP-09-1165.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-22_celex_IP-09-1166.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-30_celex_IP-09-1204.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-07-31_celex_IP-09-1214.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-09-09_celex_IP-09-1292.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-09-11_celex_IP-09-1305.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-09-23_celex_IP-09-1347.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-09-23_celex_IP-09-1349.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-02_celex_IP-09-1401.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-05_celex_IP-09-1420.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-14_celex_IP-09-1508.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-14_celex_IP-09-1516.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-19_celex_IP-09-1540.es.html": {
+    "prediction": "pt",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-19_celex_IP-09-1544.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-22_celex_IP-09-1573.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-23_celex_IP-09-1574.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-29_celex_IP-09-1626.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-10-29_celex_IP-09-1646.es.html": {
+    "prediction": "en",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-11_celex_IP-09-1696.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-11_celex_IP-09-1697.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-19_celex_IP-09-1740.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-20_celex_IP-09-1779.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-25_celex_IP-09-1816.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-11-26_celex_IP-09-1824.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-12-07_celex_IP-09-1883.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-12-07_celex_IP-09-1884.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-12-21_celex_IP-09-1988.es.html": {
+    "prediction": "da",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\es\\test\\2009-12-31_celex_IP-09-2002.es.html": {
+    "prediction": "es",
+    "reference": "es"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-01-09_celex_IP-09-26.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-01-13_celex_IP-09-45.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-01-28_celex_IP-09-141.et.html": {
+    "prediction": "nl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-01-28_celex_IP-09-142.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-02-10_celex_IP-09-232.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-02-10_celex_IP-09-238.et.html": {
+    "prediction": "sl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-02-20_celex_IP-09-300.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-02-23_celex_IP-09-303.et.html": {
+    "prediction": "nl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-03-05_celex_IP-09-354.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-03-06_celex_IP-09-362.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-03-31_celex_IP-09-506.et.html": {
+    "prediction": "nl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-03-31_celex_IP-09-510.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-08_celex_IP-09-554.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-08_celex_IP-09-560.et.html": {
+    "prediction": "nl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-22_celex_IP-09-620.et.html": {
+    "prediction": "nl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-23_celex_IP-09-625.et.html": {
+    "prediction": "mt",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-29_celex_IP-09-666.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-04-29_celex_IP-09-673.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-05-07_celex_IP-09-718.et.html": {
+    "prediction": "sl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-05-08_celex_IP-09-723.et.html": {
+    "prediction": "mt",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-05-28_celex_IP-09-845.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-05-29_celex_IP-09-851.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-06-17_celex_IP-09-941.et.html": {
+    "prediction": "et",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-06-18_celex_IP-09-948.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-06-26_celex_IP-09-1044.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-06-29_celex_IP-09-1049.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-08_celex_IP-09-1096.et.html": {
+    "prediction": "mt",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-08_celex_IP-09-1098.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-20_celex_IP-09-1165.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-22_celex_IP-09-1166.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-30_celex_IP-09-1204.et.html": {
+    "prediction": "mt",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-07-31_celex_IP-09-1214.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-09-09_celex_IP-09-1292.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-09-11_celex_IP-09-1305.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-09-23_celex_IP-09-1347.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-09-23_celex_IP-09-1349.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-02_celex_IP-09-1401.et.html": {
+    "prediction": "et",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-05_celex_IP-09-1420.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-14_celex_IP-09-1508.et.html": {
+    "prediction": "sl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-14_celex_IP-09-1516.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-19_celex_IP-09-1540.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-19_celex_IP-09-1544.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-22_celex_IP-09-1573.et.html": {
+    "prediction": "de",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-23_celex_IP-09-1574.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-29_celex_IP-09-1626.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-10-29_celex_IP-09-1646.et.html": {
+    "prediction": "en",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-11_celex_IP-09-1696.et.html": {
+    "prediction": "sl",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-11_celex_IP-09-1697.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-19_celex_IP-09-1740.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-20_celex_IP-09-1779.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-25_celex_IP-09-1816.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-11-26_celex_IP-09-1824.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-12-07_celex_IP-09-1883.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-12-07_celex_IP-09-1884.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-12-21_celex_IP-09-1988.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\et\\test\\2009-12-31_celex_IP-09-2002.et.html": {
+    "prediction": "cs",
+    "reference": "et"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-01-09_celex_IP-09-26.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-01-13_celex_IP-09-45.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-01-28_celex_IP-09-141.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-01-28_celex_IP-09-142.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-02-10_celex_IP-09-232.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-02-10_celex_IP-09-238.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-02-20_celex_IP-09-300.fi.html": {
+    "prediction": "cs",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-02-23_celex_IP-09-303.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-03-05_celex_IP-09-354.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-03-06_celex_IP-09-362.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-03-31_celex_IP-09-506.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-03-31_celex_IP-09-510.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-08_celex_IP-09-554.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-08_celex_IP-09-560.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-22_celex_IP-09-620.fi.html": {
+    "prediction": "it",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-23_celex_IP-09-625.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-29_celex_IP-09-666.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-04-29_celex_IP-09-673.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-05-07_celex_IP-09-718.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-05-08_celex_IP-09-723.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-05-28_celex_IP-09-845.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-05-29_celex_IP-09-851.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-06-17_celex_IP-09-941.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-06-18_celex_IP-09-948.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-06-26_celex_IP-09-1044.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-06-29_celex_IP-09-1049.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-08_celex_IP-09-1096.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-08_celex_IP-09-1098.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-20_celex_IP-09-1165.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-22_celex_IP-09-1166.fi.html": {
+    "prediction": "cs",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-30_celex_IP-09-1204.fi.html": {
+    "prediction": "es",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-07-31_celex_IP-09-1214.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-09-09_celex_IP-09-1292.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-09-11_celex_IP-09-1305.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-09-23_celex_IP-09-1347.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-09-23_celex_IP-09-1349.fi.html": {
+    "prediction": "cs",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-02_celex_IP-09-1401.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-05_celex_IP-09-1420.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-14_celex_IP-09-1508.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-14_celex_IP-09-1516.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-19_celex_IP-09-1540.fi.html": {
+    "prediction": "cs",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-19_celex_IP-09-1544.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-22_celex_IP-09-1573.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-23_celex_IP-09-1574.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-29_celex_IP-09-1626.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-10-29_celex_IP-09-1646.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-11_celex_IP-09-1696.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-11_celex_IP-09-1697.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-19_celex_IP-09-1740.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-20_celex_IP-09-1779.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-25_celex_IP-09-1816.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-11-26_celex_IP-09-1824.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-12-07_celex_IP-09-1883.fi.html": {
+    "prediction": "cs",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-12-07_celex_IP-09-1884.fi.html": {
+    "prediction": "da",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-12-21_celex_IP-09-1988.fi.html": {
+    "prediction": "en",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fi\\test\\2009-12-31_celex_IP-09-2002.fi.html": {
+    "prediction": "nl",
+    "reference": "fi"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-01-09_celex_IP-09-26.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-01-13_celex_IP-09-45.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-01-28_celex_IP-09-141.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-01-28_celex_IP-09-142.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-02-10_celex_IP-09-232.fr.html": {
+    "prediction": "nl",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-02-10_celex_IP-09-238.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-02-20_celex_IP-09-300.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-02-23_celex_IP-09-303.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-03-05_celex_IP-09-354.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-03-06_celex_IP-09-362.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-03-31_celex_IP-09-506.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-03-31_celex_IP-09-510.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-08_celex_IP-09-554.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-08_celex_IP-09-560.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-22_celex_IP-09-620.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-23_celex_IP-09-625.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-29_celex_IP-09-666.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-04-29_celex_IP-09-673.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-05-07_celex_IP-09-718.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-05-08_celex_IP-09-723.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-05-28_celex_IP-09-845.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-05-29_celex_IP-09-851.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-06-17_celex_IP-09-941.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-06-18_celex_IP-09-948.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-06-26_celex_IP-09-1044.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-06-29_celex_IP-09-1049.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-08_celex_IP-09-1096.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-08_celex_IP-09-1098.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-20_celex_IP-09-1165.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-22_celex_IP-09-1166.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-30_celex_IP-09-1204.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-07-31_celex_IP-09-1214.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-09-09_celex_IP-09-1292.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-09-11_celex_IP-09-1305.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-09-23_celex_IP-09-1347.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-09-23_celex_IP-09-1349.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-02_celex_IP-09-1401.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-05_celex_IP-09-1420.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-14_celex_IP-09-1508.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-14_celex_IP-09-1516.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-19_celex_IP-09-1540.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-19_celex_IP-09-1544.fr.html": {
+    "prediction": "en",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-22_celex_IP-09-1573.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-23_celex_IP-09-1574.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-29_celex_IP-09-1626.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-10-29_celex_IP-09-1646.fr.html": {
+    "prediction": "en",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-11_celex_IP-09-1696.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-11_celex_IP-09-1697.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-19_celex_IP-09-1740.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-20_celex_IP-09-1779.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-25_celex_IP-09-1816.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-11-26_celex_IP-09-1824.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-12-07_celex_IP-09-1883.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-12-07_celex_IP-09-1884.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-12-21_celex_IP-09-1988.fr.html": {
+    "prediction": "da",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\fr\\test\\2009-12-31_celex_IP-09-2002.fr.html": {
+    "prediction": "fr",
+    "reference": "fr"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-01-09_celex_IP-09-26.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-01-13_celex_IP-09-45.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-01-28_celex_IP-09-141.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-01-28_celex_IP-09-142.hu.html": {
+    "prediction": "nl",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-02-10_celex_IP-09-232.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-02-10_celex_IP-09-238.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-02-20_celex_IP-09-300.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-02-23_celex_IP-09-303.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-03-05_celex_IP-09-354.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-03-06_celex_IP-09-362.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-03-31_celex_IP-09-506.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-03-31_celex_IP-09-510.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-08_celex_IP-09-554.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-08_celex_IP-09-560.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-22_celex_IP-09-620.hu.html": {
+    "prediction": "fr",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-23_celex_IP-09-625.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-29_celex_IP-09-666.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-04-29_celex_IP-09-673.hu.html": {
+    "prediction": "hu",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-05-07_celex_IP-09-718.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-05-08_celex_IP-09-723.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-05-28_celex_IP-09-845.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-05-29_celex_IP-09-851.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-06-17_celex_IP-09-941.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-06-18_celex_IP-09-948.hu.html": {
+    "prediction": null,
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-06-26_celex_IP-09-1044.hu.html": {
+    "prediction": "de",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-06-29_celex_IP-09-1049.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-08_celex_IP-09-1096.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-08_celex_IP-09-1098.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-20_celex_IP-09-1165.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-22_celex_IP-09-1166.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-30_celex_IP-09-1204.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-07-31_celex_IP-09-1214.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-09-09_celex_IP-09-1292.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-09-11_celex_IP-09-1305.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-09-23_celex_IP-09-1347.hu.html": {
+    "prediction": "fr",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-09-23_celex_IP-09-1349.hu.html": {
+    "prediction": "fr",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-02_celex_IP-09-1401.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-05_celex_IP-09-1420.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-14_celex_IP-09-1508.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-14_celex_IP-09-1516.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-19_celex_IP-09-1540.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-19_celex_IP-09-1544.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-22_celex_IP-09-1573.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-23_celex_IP-09-1574.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-29_celex_IP-09-1626.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-10-29_celex_IP-09-1646.hu.html": {
+    "prediction": "en",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-11_celex_IP-09-1696.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-11_celex_IP-09-1697.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-19_celex_IP-09-1740.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-20_celex_IP-09-1779.hu.html": {
+    "prediction": "fr",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-25_celex_IP-09-1816.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-11-26_celex_IP-09-1824.hu.html": {
+    "prediction": "es",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-12-07_celex_IP-09-1883.hu.html": {
+    "prediction": "hu",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-12-07_celex_IP-09-1884.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-12-21_celex_IP-09-1988.hu.html": {
+    "prediction": "hu",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\hu\\test\\2009-12-31_celex_IP-09-2002.hu.html": {
+    "prediction": "da",
+    "reference": "hu"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-01-09_celex_IP-09-26.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-01-13_celex_IP-09-45.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-01-28_celex_IP-09-141.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-01-28_celex_IP-09-142.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-02-10_celex_IP-09-232.it.html": {
+    "prediction": "nl",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-02-10_celex_IP-09-238.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-02-20_celex_IP-09-300.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-02-23_celex_IP-09-303.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-03-05_celex_IP-09-354.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-03-06_celex_IP-09-362.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-03-31_celex_IP-09-506.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-03-31_celex_IP-09-510.it.html": {
+    "prediction": "es",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-08_celex_IP-09-554.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-08_celex_IP-09-560.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-22_celex_IP-09-620.it.html": {
+    "prediction": "nl",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-23_celex_IP-09-625.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-29_celex_IP-09-666.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-04-29_celex_IP-09-673.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-05-07_celex_IP-09-718.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-05-08_celex_IP-09-723.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-05-28_celex_IP-09-845.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-05-29_celex_IP-09-851.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-06-17_celex_IP-09-941.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-06-18_celex_IP-09-948.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-06-26_celex_IP-09-1044.it.html": {
+    "prediction": "de",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-06-29_celex_IP-09-1049.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-08_celex_IP-09-1096.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-08_celex_IP-09-1098.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-20_celex_IP-09-1165.it.html": {
+    "prediction": "es",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-22_celex_IP-09-1166.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-30_celex_IP-09-1204.it.html": {
+    "prediction": null,
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-07-31_celex_IP-09-1214.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-09-09_celex_IP-09-1292.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-09-11_celex_IP-09-1305.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-09-23_celex_IP-09-1347.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-09-23_celex_IP-09-1349.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-02_celex_IP-09-1401.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-05_celex_IP-09-1420.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-14_celex_IP-09-1508.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-14_celex_IP-09-1516.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-19_celex_IP-09-1540.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-19_celex_IP-09-1544.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-22_celex_IP-09-1573.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-23_celex_IP-09-1574.it.html": {
+    "prediction": "da",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-29_celex_IP-09-1626.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-10-29_celex_IP-09-1646.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-11_celex_IP-09-1696.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-11_celex_IP-09-1697.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-19_celex_IP-09-1740.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-20_celex_IP-09-1779.it.html": {
+    "prediction": "it",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-25_celex_IP-09-1816.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-11-26_celex_IP-09-1824.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-12-07_celex_IP-09-1883.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-12-07_celex_IP-09-1884.it.html": {
+    "prediction": null,
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-12-21_celex_IP-09-1988.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\it\\test\\2009-12-31_celex_IP-09-2002.it.html": {
+    "prediction": "en",
+    "reference": "it"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-01-09_celex_IP-09-26.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-01-13_celex_IP-09-45.lt.html": {
+    "prediction": null,
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-01-28_celex_IP-09-141.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-01-28_celex_IP-09-142.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-02-10_celex_IP-09-232.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-02-10_celex_IP-09-238.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-02-20_celex_IP-09-300.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-02-23_celex_IP-09-303.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-03-05_celex_IP-09-354.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-03-06_celex_IP-09-362.lt.html": {
+    "prediction": "lt",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-03-31_celex_IP-09-506.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-03-31_celex_IP-09-510.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-08_celex_IP-09-554.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-08_celex_IP-09-560.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-22_celex_IP-09-620.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-23_celex_IP-09-625.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-29_celex_IP-09-666.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-04-29_celex_IP-09-673.lt.html": {
+    "prediction": "da",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-05-07_celex_IP-09-718.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-05-08_celex_IP-09-723.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-05-28_celex_IP-09-845.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-05-29_celex_IP-09-851.lt.html": {
+    "prediction": null,
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-06-17_celex_IP-09-941.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-06-18_celex_IP-09-948.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-06-26_celex_IP-09-1044.lt.html": {
+    "prediction": "da",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-06-29_celex_IP-09-1049.lt.html": {
+    "prediction": "mt",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-08_celex_IP-09-1096.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-08_celex_IP-09-1098.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-20_celex_IP-09-1165.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-22_celex_IP-09-1166.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-30_celex_IP-09-1204.lt.html": {
+    "prediction": "da",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-07-31_celex_IP-09-1214.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-09-09_celex_IP-09-1292.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-09-11_celex_IP-09-1305.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-09-23_celex_IP-09-1347.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-09-23_celex_IP-09-1349.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-02_celex_IP-09-1401.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-05_celex_IP-09-1420.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-14_celex_IP-09-1508.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-14_celex_IP-09-1516.lt.html": {
+    "prediction": "pt",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-19_celex_IP-09-1540.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-19_celex_IP-09-1544.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-22_celex_IP-09-1573.lt.html": {
+    "prediction": "da",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-23_celex_IP-09-1574.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-29_celex_IP-09-1626.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-10-29_celex_IP-09-1646.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-11_celex_IP-09-1696.lt.html": {
+    "prediction": "da",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-11_celex_IP-09-1697.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-19_celex_IP-09-1740.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-20_celex_IP-09-1779.lt.html": {
+    "prediction": "nl",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-25_celex_IP-09-1816.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-11-26_celex_IP-09-1824.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-12-07_celex_IP-09-1883.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-12-07_celex_IP-09-1884.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-12-21_celex_IP-09-1988.lt.html": {
+    "prediction": "de",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lt\\test\\2009-12-31_celex_IP-09-2002.lt.html": {
+    "prediction": "en",
+    "reference": "lt"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-01-09_celex_IP-09-26.lv.html": {
+    "prediction": "de",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-01-13_celex_IP-09-45.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-01-28_celex_IP-09-141.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-01-28_celex_IP-09-142.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-02-10_celex_IP-09-232.lv.html": {
+    "prediction": "de",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-02-10_celex_IP-09-238.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-02-20_celex_IP-09-300.lv.html": {
+    "prediction": "et",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-02-23_celex_IP-09-303.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-03-05_celex_IP-09-354.lv.html": {
+    "prediction": "lt",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-03-06_celex_IP-09-362.lv.html": {
+    "prediction": "et",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-03-31_celex_IP-09-506.lv.html": {
+    "prediction": "sk",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-03-31_celex_IP-09-510.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-08_celex_IP-09-554.lv.html": {
+    "prediction": "et",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-08_celex_IP-09-560.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-22_celex_IP-09-620.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-23_celex_IP-09-625.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-29_celex_IP-09-666.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-04-29_celex_IP-09-673.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-05-07_celex_IP-09-718.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-05-08_celex_IP-09-723.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-05-28_celex_IP-09-845.lv.html": {
+    "prediction": "lt",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-05-29_celex_IP-09-851.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-06-17_celex_IP-09-941.lv.html": {
+    "prediction": "et",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-06-18_celex_IP-09-948.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-06-26_celex_IP-09-1044.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-06-29_celex_IP-09-1049.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-08_celex_IP-09-1096.lv.html": {
+    "prediction": "et",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-08_celex_IP-09-1098.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-20_celex_IP-09-1165.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-22_celex_IP-09-1166.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-30_celex_IP-09-1204.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-07-31_celex_IP-09-1214.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-09-09_celex_IP-09-1292.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-09-11_celex_IP-09-1305.lv.html": {
+    "prediction": "de",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-09-23_celex_IP-09-1347.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-09-23_celex_IP-09-1349.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-02_celex_IP-09-1401.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-05_celex_IP-09-1420.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-14_celex_IP-09-1508.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-14_celex_IP-09-1516.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-19_celex_IP-09-1540.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-19_celex_IP-09-1544.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-22_celex_IP-09-1573.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-23_celex_IP-09-1574.lv.html": {
+    "prediction": "da",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-29_celex_IP-09-1626.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-10-29_celex_IP-09-1646.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-11_celex_IP-09-1696.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-11_celex_IP-09-1697.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-19_celex_IP-09-1740.lv.html": {
+    "prediction": "de",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-20_celex_IP-09-1779.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-25_celex_IP-09-1816.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-11-26_celex_IP-09-1824.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-12-07_celex_IP-09-1883.lv.html": {
+    "prediction": "en",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-12-07_celex_IP-09-1884.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-12-21_celex_IP-09-1988.lv.html": {
+    "prediction": "lv",
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\lv\\test\\2009-12-31_celex_IP-09-2002.lv.html": {
+    "prediction": null,
+    "reference": "lv"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-01-09_celex_IP-09-26.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-01-13_celex_IP-09-45.mt.html": {
+    "prediction": "lv",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-01-28_celex_IP-09-141.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-01-28_celex_IP-09-142.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-02-10_celex_IP-09-232.mt.html": {
+    "prediction": "da",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-02-10_celex_IP-09-238.mt.html": {
+    "prediction": "lv",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-02-20_celex_IP-09-300.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-02-23_celex_IP-09-303.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-03-05_celex_IP-09-354.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-03-06_celex_IP-09-362.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-03-31_celex_IP-09-506.mt.html": {
+    "prediction": "lv",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-03-31_celex_IP-09-510.mt.html": {
+    "prediction": "lv",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-08_celex_IP-09-554.mt.html": {
+    "prediction": "da",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-08_celex_IP-09-560.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-22_celex_IP-09-620.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-23_celex_IP-09-625.mt.html": {
+    "prediction": "et",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-29_celex_IP-09-666.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-04-29_celex_IP-09-673.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-05-07_celex_IP-09-718.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-05-08_celex_IP-09-723.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-05-28_celex_IP-09-845.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-05-29_celex_IP-09-851.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-06-17_celex_IP-09-941.mt.html": {
+    "prediction": "de",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-06-18_celex_IP-09-948.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-06-26_celex_IP-09-1044.mt.html": {
+    "prediction": "de",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-06-29_celex_IP-09-1049.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-08_celex_IP-09-1096.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-08_celex_IP-09-1098.mt.html": {
+    "prediction": "de",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-20_celex_IP-09-1165.mt.html": {
+    "prediction": "de",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-22_celex_IP-09-1166.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-30_celex_IP-09-1204.mt.html": {
+    "prediction": null,
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-07-31_celex_IP-09-1214.mt.html": {
+    "prediction": "de",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-09-09_celex_IP-09-1292.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-09-11_celex_IP-09-1305.mt.html": {
+    "prediction": "lv",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-09-23_celex_IP-09-1347.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-09-23_celex_IP-09-1349.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-02_celex_IP-09-1401.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-05_celex_IP-09-1420.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-14_celex_IP-09-1508.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-14_celex_IP-09-1516.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-19_celex_IP-09-1540.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-19_celex_IP-09-1544.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-22_celex_IP-09-1573.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-23_celex_IP-09-1574.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-29_celex_IP-09-1626.mt.html": {
+    "prediction": "et",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-10-29_celex_IP-09-1646.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-11_celex_IP-09-1696.mt.html": {
+    "prediction": "da",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-11_celex_IP-09-1697.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-19_celex_IP-09-1740.mt.html": {
+    "prediction": "da",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-20_celex_IP-09-1779.mt.html": {
+    "prediction": null,
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-25_celex_IP-09-1816.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-11-26_celex_IP-09-1824.mt.html": {
+    "prediction": "en",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-12-07_celex_IP-09-1883.mt.html": {
+    "prediction": "it",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-12-07_celex_IP-09-1884.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-12-21_celex_IP-09-1988.mt.html": {
+    "prediction": null,
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\mt\\test\\2009-12-31_celex_IP-09-2002.mt.html": {
+    "prediction": "mt",
+    "reference": "mt"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-01-09_celex_IP-09-26.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-01-13_celex_IP-09-45.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-01-28_celex_IP-09-141.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-01-28_celex_IP-09-142.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-02-10_celex_IP-09-232.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-02-10_celex_IP-09-238.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-02-20_celex_IP-09-300.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-02-23_celex_IP-09-303.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-03-05_celex_IP-09-354.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-03-06_celex_IP-09-362.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-03-31_celex_IP-09-506.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-03-31_celex_IP-09-510.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-08_celex_IP-09-554.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-08_celex_IP-09-560.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-22_celex_IP-09-620.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-23_celex_IP-09-625.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-29_celex_IP-09-666.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-04-29_celex_IP-09-673.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-05-07_celex_IP-09-718.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-05-08_celex_IP-09-723.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-05-28_celex_IP-09-845.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-05-29_celex_IP-09-851.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-06-17_celex_IP-09-941.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-06-18_celex_IP-09-948.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-06-26_celex_IP-09-1044.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-06-29_celex_IP-09-1049.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-08_celex_IP-09-1096.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-08_celex_IP-09-1098.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-20_celex_IP-09-1165.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-22_celex_IP-09-1166.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-30_celex_IP-09-1204.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-07-31_celex_IP-09-1214.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-09-09_celex_IP-09-1292.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-09-11_celex_IP-09-1305.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-09-23_celex_IP-09-1347.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-09-23_celex_IP-09-1349.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-02_celex_IP-09-1401.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-05_celex_IP-09-1420.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-14_celex_IP-09-1508.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-14_celex_IP-09-1516.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-19_celex_IP-09-1540.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-19_celex_IP-09-1544.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-22_celex_IP-09-1573.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-23_celex_IP-09-1574.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-29_celex_IP-09-1626.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-10-29_celex_IP-09-1646.nl.html": {
+    "prediction": "en",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-11_celex_IP-09-1696.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-11_celex_IP-09-1697.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-19_celex_IP-09-1740.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-20_celex_IP-09-1779.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-25_celex_IP-09-1816.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-11-26_celex_IP-09-1824.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-12-07_celex_IP-09-1883.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-12-07_celex_IP-09-1884.nl.html": {
+    "prediction": "da",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-12-21_celex_IP-09-1988.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\nl\\test\\2009-12-31_celex_IP-09-2002.nl.html": {
+    "prediction": "nl",
+    "reference": "nl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-01-09_celex_IP-09-26.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-01-13_celex_IP-09-45.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-01-28_celex_IP-09-141.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-01-28_celex_IP-09-142.pl.html": {
+    "prediction": "en",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-02-10_celex_IP-09-232.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-02-10_celex_IP-09-238.pl.html": {
+    "prediction": "en",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-02-20_celex_IP-09-300.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-02-23_celex_IP-09-303.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-03-05_celex_IP-09-354.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-03-06_celex_IP-09-362.pl.html": {
+    "prediction": "lv",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-03-31_celex_IP-09-506.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-03-31_celex_IP-09-510.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-08_celex_IP-09-554.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-08_celex_IP-09-560.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-22_celex_IP-09-620.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-23_celex_IP-09-625.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-29_celex_IP-09-666.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-04-29_celex_IP-09-673.pl.html": {
+    "prediction": "cs",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-05-07_celex_IP-09-718.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-05-08_celex_IP-09-723.pl.html": {
+    "prediction": "cs",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-05-28_celex_IP-09-845.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-05-29_celex_IP-09-851.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-06-17_celex_IP-09-941.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-06-18_celex_IP-09-948.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-06-26_celex_IP-09-1044.pl.html": {
+    "prediction": "pl",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-06-29_celex_IP-09-1049.pl.html": {
+    "prediction": "pl",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-08_celex_IP-09-1096.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-08_celex_IP-09-1098.pl.html": {
+    "prediction": "da",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-20_celex_IP-09-1165.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-22_celex_IP-09-1166.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-30_celex_IP-09-1204.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-07-31_celex_IP-09-1214.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-09-09_celex_IP-09-1292.pl.html": {
+    "prediction": "en",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-09-11_celex_IP-09-1305.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-09-23_celex_IP-09-1347.pl.html": {
+    "prediction": "cs",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-09-23_celex_IP-09-1349.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-02_celex_IP-09-1401.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-05_celex_IP-09-1420.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-14_celex_IP-09-1508.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-14_celex_IP-09-1516.pl.html": {
+    "prediction": "pt",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-19_celex_IP-09-1540.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-19_celex_IP-09-1544.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-22_celex_IP-09-1573.pl.html": {
+    "prediction": "lv",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-23_celex_IP-09-1574.pl.html": {
+    "prediction": "da",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-29_celex_IP-09-1626.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-10-29_celex_IP-09-1646.pl.html": {
+    "prediction": "en",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-11_celex_IP-09-1696.pl.html": {
+    "prediction": "da",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-11_celex_IP-09-1697.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-19_celex_IP-09-1740.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-20_celex_IP-09-1779.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-25_celex_IP-09-1816.pl.html": {
+    "prediction": "da",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-11-26_celex_IP-09-1824.pl.html": {
+    "prediction": "en",
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-12-07_celex_IP-09-1883.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-12-07_celex_IP-09-1884.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-12-21_celex_IP-09-1988.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pl\\test\\2009-12-31_celex_IP-09-2002.pl.html": {
+    "prediction": null,
+    "reference": "pl"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-01-09_celex_IP-09-26.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-01-13_celex_IP-09-45.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-01-28_celex_IP-09-141.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-01-28_celex_IP-09-142.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-02-10_celex_IP-09-232.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-02-10_celex_IP-09-238.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-02-20_celex_IP-09-300.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-02-23_celex_IP-09-303.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-03-05_celex_IP-09-354.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-03-06_celex_IP-09-362.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-03-31_celex_IP-09-506.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-03-31_celex_IP-09-510.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-08_celex_IP-09-554.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-08_celex_IP-09-560.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-22_celex_IP-09-620.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-23_celex_IP-09-625.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-29_celex_IP-09-666.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-04-29_celex_IP-09-673.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-05-07_celex_IP-09-718.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-05-08_celex_IP-09-723.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-05-28_celex_IP-09-845.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-05-29_celex_IP-09-851.pt.html": {
+    "prediction": null,
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-06-17_celex_IP-09-941.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-06-18_celex_IP-09-948.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-06-26_celex_IP-09-1044.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-06-29_celex_IP-09-1049.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-08_celex_IP-09-1096.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-08_celex_IP-09-1098.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-20_celex_IP-09-1165.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-22_celex_IP-09-1166.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-30_celex_IP-09-1204.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-07-31_celex_IP-09-1214.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-09-09_celex_IP-09-1292.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-09-11_celex_IP-09-1305.pt.html": {
+    "prediction": "lv",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-09-23_celex_IP-09-1347.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-09-23_celex_IP-09-1349.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-02_celex_IP-09-1401.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-05_celex_IP-09-1420.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-14_celex_IP-09-1508.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-14_celex_IP-09-1516.pt.html": {
+    "prediction": "lv",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-19_celex_IP-09-1540.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-19_celex_IP-09-1544.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-22_celex_IP-09-1573.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-23_celex_IP-09-1574.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-29_celex_IP-09-1626.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-10-29_celex_IP-09-1646.pt.html": {
+    "prediction": "en",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-11_celex_IP-09-1696.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-11_celex_IP-09-1697.pt.html": {
+    "prediction": "nl",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-19_celex_IP-09-1740.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-20_celex_IP-09-1779.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-25_celex_IP-09-1816.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-11-26_celex_IP-09-1824.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-12-07_celex_IP-09-1883.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-12-07_celex_IP-09-1884.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-12-21_celex_IP-09-1988.pt.html": {
+    "prediction": "pt",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\pt\\test\\2009-12-31_celex_IP-09-2002.pt.html": {
+    "prediction": "da",
+    "reference": "pt"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-01-09_celex_IP-09-26.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-01-13_celex_IP-09-45.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-01-28_celex_IP-09-141.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-01-28_celex_IP-09-142.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-02-10_celex_IP-09-232.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-02-10_celex_IP-09-238.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-02-20_celex_IP-09-300.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-02-23_celex_IP-09-303.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-03-05_celex_IP-09-354.ro.html": {
+    "prediction": "fr",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-03-06_celex_IP-09-362.ro.html": {
+    "prediction": "it",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-03-31_celex_IP-09-506.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-03-31_celex_IP-09-510.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-08_celex_IP-09-554.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-08_celex_IP-09-560.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-22_celex_IP-09-620.ro.html": {
+    "prediction": "it",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-23_celex_IP-09-625.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-29_celex_IP-09-666.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-04-29_celex_IP-09-673.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-05-07_celex_IP-09-718.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-05-08_celex_IP-09-723.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-05-28_celex_IP-09-845.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-05-29_celex_IP-09-851.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-06-17_celex_IP-09-941.ro.html": {
+    "prediction": "en",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-06-18_celex_IP-09-948.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-06-26_celex_IP-09-1044.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-06-29_celex_IP-09-1049.ro.html": {
+    "prediction": "fr",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-08_celex_IP-09-1096.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-08_celex_IP-09-1098.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-20_celex_IP-09-1165.ro.html": {
+    "prediction": "de",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-22_celex_IP-09-1166.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-30_celex_IP-09-1204.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-07-31_celex_IP-09-1214.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-09-09_celex_IP-09-1292.ro.html": {
+    "prediction": "fr",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-09-11_celex_IP-09-1305.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-09-23_celex_IP-09-1347.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-09-23_celex_IP-09-1349.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-02_celex_IP-09-1401.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-05_celex_IP-09-1420.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-14_celex_IP-09-1508.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-14_celex_IP-09-1516.ro.html": {
+    "prediction": null,
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-19_celex_IP-09-1540.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-19_celex_IP-09-1544.ro.html": {
+    "prediction": null,
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-22_celex_IP-09-1573.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-23_celex_IP-09-1574.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-29_celex_IP-09-1626.ro.html": {
+    "prediction": "lv",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-10-29_celex_IP-09-1646.ro.html": {
+    "prediction": "en",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-11_celex_IP-09-1696.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-11_celex_IP-09-1697.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-19_celex_IP-09-1740.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-20_celex_IP-09-1779.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-25_celex_IP-09-1816.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-11-26_celex_IP-09-1824.ro.html": {
+    "prediction": "nl",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-12-07_celex_IP-09-1883.ro.html": {
+    "prediction": "de",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-12-07_celex_IP-09-1884.ro.html": {
+    "prediction": null,
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-12-21_celex_IP-09-1988.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\ro\\test\\2009-12-31_celex_IP-09-2002.ro.html": {
+    "prediction": "da",
+    "reference": "ro"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-01-09_celex_IP-09-26.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-01-13_celex_IP-09-45.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-01-28_celex_IP-09-141.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-01-28_celex_IP-09-142.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-02-10_celex_IP-09-232.sk.html": {
+    "prediction": "nl",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-02-10_celex_IP-09-238.sk.html": {
+    "prediction": "en",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-02-20_celex_IP-09-300.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-02-23_celex_IP-09-303.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-03-05_celex_IP-09-354.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-03-06_celex_IP-09-362.sk.html": {
+    "prediction": "et",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-03-31_celex_IP-09-506.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-03-31_celex_IP-09-510.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-08_celex_IP-09-554.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-08_celex_IP-09-560.sk.html": {
+    "prediction": "et",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-22_celex_IP-09-620.sk.html": {
+    "prediction": "de",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-23_celex_IP-09-625.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-29_celex_IP-09-666.sk.html": {
+    "prediction": "en",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-04-29_celex_IP-09-673.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-05-07_celex_IP-09-718.sk.html": {
+    "prediction": "cs",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-05-08_celex_IP-09-723.sk.html": {
+    "prediction": "lv",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-05-28_celex_IP-09-845.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-05-29_celex_IP-09-851.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-06-17_celex_IP-09-941.sk.html": {
+    "prediction": "en",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-06-18_celex_IP-09-948.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-06-26_celex_IP-09-1044.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-06-29_celex_IP-09-1049.sk.html": {
+    "prediction": "lv",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-08_celex_IP-09-1096.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-08_celex_IP-09-1098.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-20_celex_IP-09-1165.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-22_celex_IP-09-1166.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-30_celex_IP-09-1204.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-07-31_celex_IP-09-1214.sk.html": {
+    "prediction": "cs",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-09-09_celex_IP-09-1292.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-09-11_celex_IP-09-1305.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-09-23_celex_IP-09-1347.sk.html": {
+    "prediction": "cs",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-09-23_celex_IP-09-1349.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-02_celex_IP-09-1401.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-05_celex_IP-09-1420.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-14_celex_IP-09-1508.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-14_celex_IP-09-1516.sk.html": {
+    "prediction": "pt",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-19_celex_IP-09-1540.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-19_celex_IP-09-1544.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-22_celex_IP-09-1573.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-23_celex_IP-09-1574.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-29_celex_IP-09-1626.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-10-29_celex_IP-09-1646.sk.html": {
+    "prediction": "en",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-11_celex_IP-09-1696.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-11_celex_IP-09-1697.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-19_celex_IP-09-1740.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-20_celex_IP-09-1779.sk.html": {
+    "prediction": "cs",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-25_celex_IP-09-1816.sk.html": {
+    "prediction": "es",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-11-26_celex_IP-09-1824.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-12-07_celex_IP-09-1883.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-12-07_celex_IP-09-1884.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-12-21_celex_IP-09-1988.sk.html": {
+    "prediction": null,
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sk\\test\\2009-12-31_celex_IP-09-2002.sk.html": {
+    "prediction": "da",
+    "reference": "sk"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-01-09_celex_IP-09-26.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-01-13_celex_IP-09-45.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-01-28_celex_IP-09-141.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-01-28_celex_IP-09-142.sl.html": {
+    "prediction": "nl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-02-10_celex_IP-09-232.sl.html": {
+    "prediction": "de",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-02-10_celex_IP-09-238.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-02-20_celex_IP-09-300.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-02-23_celex_IP-09-303.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-03-05_celex_IP-09-354.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-03-06_celex_IP-09-362.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-03-31_celex_IP-09-506.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-03-31_celex_IP-09-510.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-08_celex_IP-09-554.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-08_celex_IP-09-560.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-22_celex_IP-09-620.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-23_celex_IP-09-625.sl.html": {
+    "prediction": "sl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-29_celex_IP-09-666.sl.html": {
+    "prediction": "sl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-04-29_celex_IP-09-673.sl.html": {
+    "prediction": "es",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-05-07_celex_IP-09-718.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-05-08_celex_IP-09-723.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-05-28_celex_IP-09-845.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-05-29_celex_IP-09-851.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-06-17_celex_IP-09-941.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-06-18_celex_IP-09-948.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-06-26_celex_IP-09-1044.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-06-29_celex_IP-09-1049.sl.html": {
+    "prediction": "it",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-08_celex_IP-09-1096.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-08_celex_IP-09-1098.sl.html": {
+    "prediction": "sv",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-20_celex_IP-09-1165.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-22_celex_IP-09-1166.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-30_celex_IP-09-1204.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-07-31_celex_IP-09-1214.sl.html": {
+    "prediction": "sl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-09-09_celex_IP-09-1292.sl.html": {
+    "prediction": "fr",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-09-11_celex_IP-09-1305.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-09-23_celex_IP-09-1347.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-09-23_celex_IP-09-1349.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-02_celex_IP-09-1401.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-05_celex_IP-09-1420.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-14_celex_IP-09-1508.sl.html": {
+    "prediction": "sv",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-14_celex_IP-09-1516.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-19_celex_IP-09-1540.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-19_celex_IP-09-1544.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-22_celex_IP-09-1573.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-23_celex_IP-09-1574.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-29_celex_IP-09-1626.sl.html": {
+    "prediction": "sl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-10-29_celex_IP-09-1646.sl.html": {
+    "prediction": "en",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-11_celex_IP-09-1696.sl.html": {
+    "prediction": "et",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-11_celex_IP-09-1697.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-19_celex_IP-09-1740.sl.html": {
+    "prediction": "sl",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-20_celex_IP-09-1779.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-25_celex_IP-09-1816.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-11-26_celex_IP-09-1824.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-12-07_celex_IP-09-1883.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-12-07_celex_IP-09-1884.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-12-21_celex_IP-09-1988.sl.html": {
+    "prediction": "cs",
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sl\\test\\2009-12-31_celex_IP-09-2002.sl.html": {
+    "prediction": null,
+    "reference": "sl"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-01-09_celex_IP-09-26.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-01-13_celex_IP-09-45.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-01-28_celex_IP-09-141.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-01-28_celex_IP-09-142.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-02-10_celex_IP-09-232.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-02-10_celex_IP-09-238.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-02-20_celex_IP-09-300.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-02-23_celex_IP-09-303.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-03-05_celex_IP-09-354.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-03-06_celex_IP-09-362.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-03-31_celex_IP-09-506.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-03-31_celex_IP-09-510.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-08_celex_IP-09-554.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-08_celex_IP-09-560.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-22_celex_IP-09-620.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-23_celex_IP-09-625.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-29_celex_IP-09-666.sv.html": {
+    "prediction": "nl",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-04-29_celex_IP-09-673.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-05-07_celex_IP-09-718.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-05-08_celex_IP-09-723.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-05-28_celex_IP-09-845.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-05-29_celex_IP-09-851.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-06-17_celex_IP-09-941.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-06-18_celex_IP-09-948.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-06-26_celex_IP-09-1044.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-06-29_celex_IP-09-1049.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-08_celex_IP-09-1096.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-08_celex_IP-09-1098.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-20_celex_IP-09-1165.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-22_celex_IP-09-1166.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-30_celex_IP-09-1204.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-07-31_celex_IP-09-1214.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-09-09_celex_IP-09-1292.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-09-11_celex_IP-09-1305.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-09-23_celex_IP-09-1347.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-09-23_celex_IP-09-1349.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-02_celex_IP-09-1401.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-05_celex_IP-09-1420.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-14_celex_IP-09-1508.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-14_celex_IP-09-1516.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-19_celex_IP-09-1540.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-19_celex_IP-09-1544.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-22_celex_IP-09-1573.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-23_celex_IP-09-1574.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-29_celex_IP-09-1626.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-10-29_celex_IP-09-1646.sv.html": {
+    "prediction": "en",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-11_celex_IP-09-1696.sv.html": {
+    "prediction": "fr",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-11_celex_IP-09-1697.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-19_celex_IP-09-1740.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-20_celex_IP-09-1779.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-25_celex_IP-09-1816.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-11-26_celex_IP-09-1824.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-12-07_celex_IP-09-1883.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-12-07_celex_IP-09-1884.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-12-21_celex_IP-09-1988.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  },
+  "..\\..\\corpus_multi\\sv\\test\\2009-12-31_celex_IP-09-2002.sv.html": {
+    "prediction": "da",
+    "reference": "sv"
+  }
+}
